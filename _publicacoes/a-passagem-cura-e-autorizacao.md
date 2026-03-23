@@ -7,12 +7,12 @@ resumo: "Sobre o processo de cura e autorização na prática psicanalítica."
 
 A PASSAGEM: CURA E AUTORIZAÇÃO
 
-                                                                                           MARIA EUNICE SANTOS
+MARIA EUNICE SANTOS
                                                                                                                                É psicanalista , ex-professora adjunto da Faculdade de Filosofia                                           Ciências e Letras da Universidade Federal da Bahia
 
-                                                                          “Ora, a partir daquilo do qual a geração é para as coisas, também o desaparecer para dentro disto se engendra segundo a mantença; deixam pois ter lugar o acordo e assim também o cuidado, um para o outro (no penetrar e assumir) do des-acordo, segundo a ordem do tempo”.Anaximandro de Mileto. (tradução de Heidegger)
+“Ora, a partir daquilo do qual a geração é para as coisas, também o desaparecer para dentro disto se engendra segundo a mantença; deixam pois ter lugar o acordo e assim também o cuidado, um para o outro (no penetrar e assumir) do des-acordo, segundo a ordem do tempo”.Anaximandro de Mileto. (tradução de Heidegger)
 
-    I
+I
 
 Oque me impulsiona a escrever é o desejo de estabelecer o limite e o cruzamento da passagem daquilo que se nomeia cura e autorização.
 
@@ -30,7 +30,7 @@ Mas a imprecisão gerou um desconforto: o destino dessa formação solitária se
 
 E não há nenhuma medida externa, a não ser uma, demasiado singular, que possa estabelecer o momento, a crítica dessa passagem.
 
-       II
+II
  Otexto é sagrado. Ao olhá-lo requer-se o olhar mais puro, os dedos ungidos dos mais finos óleos, que as páginas não devem ser machucadas, nem as letras alteradas. Que a leitura que se faça dele, em voz alta, seja a mais fiel, a pontuação a mais perfeita.
 
 Pressupõe-se que para que esse ato perfeito se dê, não haja nenhuma diferença entre o leitor e o texto. Este, o leitor, ao lê-lo, compungido, deve cuidar para que seus tiques, suas gagueiras, seu piscar inoportuno, sua respiração tensa, não venha, com seus ruídos, intrometer-se na transmissão da letra.
@@ -41,7 +41,7 @@ O discípulo, cópia fiel do mestre, o que não adultera, o que não cinde.
 
 Esta, a relação imaginada para o discípulo e o mestre. O mestre – o que tem o texto da lei, o discípulo – aquele que o persegue.
 
- Mas a inquietação está implícita no olhar do mestre e do discípulo: a diferença não pode ser apagada. Ela se intromete, invieza, irrita o mestre, assusta o discípulo.
+Mas a inquietação está implícita no olhar do mestre e do discípulo: a diferença não pode ser apagada. Ela se intromete, invieza, irrita o mestre, assusta o discípulo.
 
 Um mal estar se estabelece: porque se este texto fascinou a este leitor, é porque ele, ao ser lido, preencheu suas próprias questões; e foi o seu próprio modo de lê-lo, a sua torpe inflexão, que possibilitou este preenchimento.
 
@@ -63,7 +63,7 @@ Então, estarei preparada para escutar o mestre, ou o mestre me dirá só palavr
 
 Em Psicanálise, a teoria geral é a própria transferência. Isso quer dizer: a lei geral não se atualiza no particular, porque está lei geral é o particular, do texto freudiano, da transferência que se faz com este texto.
 
-   III
+III
 
 Segundo a consigna da troca simbólica é imperativo que você devolva o que lhe foi dado. Aqui não se inscreve a noção de equivalência: o que se devolve não é necessariamente igual ao que se recebeu.
 
@@ -98,13 +98,13 @@ Esse será o pagamento suficiente: sua admissão da lei. A matrícula, no entant
 
 “Diante da lei está um porteiro. Um homem do campo chega a esse porteiro e pede para entrar na lei. Mas o porteiro diz que agora não pode permitir-lhe a entrada. O homem do campo reflete e depois pergunta se então não pode entrar mais tarde.
 
-  -É possível – diz o porteiro- Mas agora não.
+-É possível – diz o porteiro- Mas agora não.
 
-  Uma vez que a porta da lei continua como sempre aberta e o porteiro se põe de lado o homem se inclina para olhar o interior através da porta. Quando nota isso o porteiro ri e diz:
+Uma vez que a porta da lei continua como sempre aberta e o porteiro se põe de lado o homem se inclina para olhar o interior através da porta. Quando nota isso o porteiro ri e diz:
 
- - Se o atrai tanto, tente entrar apesar da minha proibição. Mas veja bem: eu sou poderoso. E sou apenas o último dos porteiros. De sala para sala porém existem porteiros cada um mais poderoso que o outro.Nem mesmo eu posso suportar a simples visão do terceiro.
+- Se o atrai tanto, tente entrar apesar da minha proibição. Mas veja bem: eu sou poderoso. E sou apenas o último dos porteiros. De sala para sala porém existem porteiros cada um mais poderoso que o outro.Nem mesmo eu posso suportar a simples visão do terceiro.
 
- O homem do campo não esperava tais dificuldades: a lei deve ser acessível a todos e a qualquer hora, pensa ele; agora, no entanto, ao examinar mais de perto o porteiro, com seu casaco de pele, o grande nariz pontudo, a longa barba tártara, rala e preta, ele decide que é melhor aguardar até receber a permissão de entrada. O porteiro lhe dá um banquinho e deixa-o sentar-se ao lado da porta.
+O homem do campo não esperava tais dificuldades: a lei deve ser acessível a todos e a qualquer hora, pensa ele; agora, no entanto, ao examinar mais de perto o porteiro, com seu casaco de pele, o grande nariz pontudo, a longa barba tártara, rala e preta, ele decide que é melhor aguardar até receber a permissão de entrada. O porteiro lhe dá um banquinho e deixa-o sentar-se ao lado da porta.
 Ali fica sentado dias e anos. Ele faz muitas tentativas para ser admitido e cansa o porteiro com os seus pedidos. Às vezes o porteiro submete o homem a pequenos interrogatórios, pergunta-lhe a respeito da sua terra natal e de muitas outras coisas, mas são perguntas indiferentes, como as que os grandes senhores fazem, e para concluir repete-lhe sempre que ainda não pode deixá-lo entrar. O homem, que havia se equipado com muitas coisas para a viagem, emprega tudo, por mais valioso que seja, para subornar o porteiro. Com efeito, este aceita tudo, mas sempre dizendo:
 
 -Eu só aceito para você não julgar que deixou de fazer alguma coisa.
@@ -147,7 +147,7 @@ Mas essa máscara ecoa, reverbera. Esse tonto senhor sério, que está aí atrá
 
 Estranho circuito esse onde a única coisa que ele pode doar é a fala que eu lhe dou.
 
-      IV
+IV
 
 Mas como ao buscar a cura o paciente fala, pelo amor de Deus, e nesse sacrifício de amor ele fala o que não sabe, e sem o saber se cura – pelo mesmo percurso o discípulo busca a autorização. Em Psicanálise, isso quer dizer – o analisante busca o lugar do analista.
 
@@ -183,7 +183,7 @@ Ele, o paciente, que busca pela análise o amor e o saber de si, do analista, lo
 
 Por outro lado, repetimos também, como Freud, depois dos primeiros momentos de dificuldade e o entusiasmo triunfante do início, o reencontro do limite, quase luto, do Freud mais experiente de 1919: nem tudo pode ser decifrado, há um silêncio indizível, é necessário o silêncio. O analista se encontra com a morte, que está no seu lugar – no des-acordo.
 
-                                   V
+V
 
 O homem quer analista ou não, está diante da lei. Aspira-se, quer reconhecê-la, ser reconhecida por ela.
 
@@ -231,7 +231,7 @@ O conhecimento se transforma em nós uma paixão que não se aterroriza com nenh
 
 O terrível da lei é que seu território, atrás de uma porta aberta, está vazio. O que fascina, e torna possível todo arbitrário preenchimento é sua virtualidade. Mas assim, impossível, o seu rigor é implacável.
 
-                           VI
+VI
 
 Tecia,ponto por ponto, o desenho de um percurso.Mas aquilo que eu encontrava como uma libertação era meramente uma saída – que retorna para dentro de si mesma. Refaria de novo o percurso, com certeza, e esqueceria cada ponto conquistado.
 

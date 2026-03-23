@@ -24,9 +24,7 @@ assim. É muito comum vermos mulheres com seus corpos de violão e loiras, mas c
 
 A autenticação do feminino, numa sociedade basicamente heterossexual como a nossa, vem do homem. A prisão dessa proveniência exclusiva (desse cartório, por assim dizer) faz com que a mulher faleça, junto com seus atestados, na hora que ele, o homem, não puder, não quiser, não souber, dar-lhe o imprimátur, a autorização circunstancial do seu feminino. Quando o homem trai, ele retira o selo de uma mulher para dá-lo à outra. Se ele dá a outro homem, aí a mulher literalmente surta, por que aí todos os valores da cultura heterossexual, que ela aprendeu e que constituiu a sua diferença, entra em pane.
 
-Se o marido se torna impotente ou simplesmente diminui o seu desejo pela mulher, o selo fálico, que é o seu desígnio, despoja a mulher da sua melhor alegria. A fêmea se pensa incompetente para produzir a mágica
-
-da ereção, se sente insignificante. O que quer dizer – alguém que não significa nada para ele... enquanto o outro sexo.
+Se o marido se torna impotente ou simplesmente diminui o seu desejo pela mulher, o selo fálico, que é o seu desígnio, despoja a mulher da sua melhor alegria. A fêmea se pensa incompetente para produzir a mágica da ereção, se sente insignificante. O que quer dizer – alguém que não significa nada para ele... enquanto o outro sexo.
 
 É aí que a mulher neste labirinto, indo se encontrar com este minotauro – o mito do seu feminino – necessita de outra mulher, que pareça possuir o novelo para trazê-la de volta. Provavelmente você entra na vida dessas mulheres e as atrai na medida que você parece provê-la; como que prometesse, de alguma forma, autenticá-las, salvá-las. Ocupa então o lugar tradicionalmente legado ao homem. Você não rivaliza como você mesma diz – você tem compaixão.
 

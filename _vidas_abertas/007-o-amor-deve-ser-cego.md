@@ -11,7 +11,7 @@ Cara Eunice. Você acha que o amor deve ser cego? Tenho perdido meus amores por 
 
 Entretanto quando eu tentei mostrar as máscaras, ate com compaixão, os perdi, os meus amores. Como os três macaquinhos, não devo ver, ouvir, falar? Então, o que resta do relacionamento humano? Seres ilhados? Tive um período onde fiz teatro, e fico pensando que todos nós somos personagens, construídas por nós mesmas e pelas circunstancias. Adoro sua coluna porque tenho visto você levantar muitas dessas máscaras.
 
- Você não tem medo, cara Eunice?
+Você não tem medo, cara Eunice?
  Um dos últimos relacionamentos foi assim: um homem que pertencia a uma corporação severa e machista. Vi que, por trás daquela fachada, havia uma terrível duplicidade. O avesso do avesso. Mas havia também, muita vergonha de ser visto assim. Mas também muito ódio por quem o descobrisse.
 
 Fui infantil e precipitada lhe insinuando o que eu estava vendo que não correspondia àquilo que ele dizia. Mas, estranhamente, eu amava o seu segredo.

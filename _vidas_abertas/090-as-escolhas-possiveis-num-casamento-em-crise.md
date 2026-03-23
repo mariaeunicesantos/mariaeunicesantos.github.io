@@ -9,9 +9,7 @@ Leitora afirma que descobriu esta sendo traída pelo marido, que a trocou por um
 
 Cara Eunice,
 
-Deliberadamente, ou não, optei por não sonhar. E este estado durou “ inexatos” 24 anos. Sou, portanto, responsável pelas escolhas que fiz. E quanto elas me custaram em termos de realização pessoal (adiei o desejo de cursar uma
-
-faculdade de jornalismo), de mim reconhecer como uma pessoa capaz de realizar pequenos e grandes projetos.
+Deliberadamente, ou não, optei por não sonhar. E este estado durou “ inexatos” 24 anos. Sou, portanto, responsável pelas escolhas que fiz. E quanto elas me custaram em termos de realização pessoal (adiei o desejo de cursar uma faculdade de jornalismo), de mim reconhecer como uma pessoa capaz de realizar pequenos e grandes projetos.
 
 Abdiquei de mim para criar dois filhos, hoje com 17 e 15 anos, e para tentar mudar um marido que não queria ser mudado. Sofri muito tentando traçar caminhos, mostrar a ele a importância da cultura, da informação, da busca de crescimento que nos torna seres melhores. Ele optou pelas” bebedeiras” nas noitadas com amigos, no desrespeito com ele e com os outros.
 

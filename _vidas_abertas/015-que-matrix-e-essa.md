@@ -11,15 +11,11 @@ Até breve.
 
 A frase, que uma mulher ouviu do seu companheiro, a fez questionar os amores sofridos nas relações heterossexuais
 
-Querida Eunice. Gostaria de saber sua opinião a respeito de uma frase que ouvi: “Os homens odeiam as mulheres”. Eu ouvi está frase do homem que eu amo, e isso me causou muito medo e estranheza. Perguntei-me se ele não estaria
-
-falando de si, uma forma de confessar seus ódio às mulheres através da generalização. Ele me olhou, viu minha cara assustada com sua afirmação, e meio que consertou: “As mulheres também odeiam os homens...” Protestei: “Jamais! As mulheres adoram os homens!” Ele resmungou: “È uma eterna queda de braço...”. Será que o fato dele ser militar e ter sido sempre educado em escolas sem a presença do sexo feminino o fez pensar e sentir assim? Também ele sofreu decepções terríveis com a primeira mulher por quem ele era apaixonado... É ódio, então, ou ressentimento? Também ele foi afastado da mãe muito cedo... Bem, gostaria que você me dissesse algo sobre isso, desconfio que por trás deste eterno sofrimento no amor de homens e mulheres, na humanidade, exista a presença desta frase... Obrigada.
+Querida Eunice. Gostaria de saber sua opinião a respeito de uma frase que ouvi: “Os homens odeiam as mulheres”. Eu ouvi está frase do homem que eu amo, e isso me causou muito medo e estranheza. Perguntei-me se ele não estaria falando de si, uma forma de confessar seus ódio às mulheres através da generalização. Ele me olhou, viu minha cara assustada com sua afirmação, e meio que consertou: “As mulheres também odeiam os homens...” Protestei: “Jamais! As mulheres adoram os homens!” Ele resmungou: “È uma eterna queda de braço...”. Será que o fato dele ser militar e ter sido sempre educado em escolas sem a presença do sexo feminino o fez pensar e sentir assim? Também ele sofreu decepções terríveis com a primeira mulher por quem ele era apaixonado... É ódio, então, ou ressentimento? Também ele foi afastado da mãe muito cedo... Bem, gostaria que você me dissesse algo sobre isso, desconfio que por trás deste eterno sofrimento no amor de homens e mulheres, na humanidade, exista a presença desta frase... Obrigada.
 
 Mariana
 
-Cara Mariana. Freud dizia que, antes de poder amar, o ego odiava o futuro objeto de amor. Por que o ego, no seu desejo de autocomplacência narcísica, não queria se dar ao trabalho de sair de si e encontrar a completude no outro. O “outro” se torna ameaçador quando
-
-ele detém os instrumentos de minha felicidade. Torno-me refém da disposição de amar do outro, de me devolver seu amor. Odeio isso! O sonho do ego é se bastar. Cativar é escravizar. E poder ser traído e trair.
+Cara Mariana. Freud dizia que, antes de poder amar, o ego odiava o futuro objeto de amor. Por que o ego, no seu desejo de autocomplacência narcísica, não queria se dar ao trabalho de sair de si e encontrar a completude no outro. O “outro” se torna ameaçador quando ele detém os instrumentos de minha felicidade. Torno-me refém da disposição de amar do outro, de me devolver seu amor. Odeio isso! O sonho do ego é se bastar. Cativar é escravizar. E poder ser traído e trair.
 
 A mulher, além de ser um outro, como qualquer objeto amoroso ela também é um outro continente, um ser estranho, muitas vezes ameaçador. Rita Lee diz que a mulher é um  “bicho esquisito, todo mês sangra”. Concordando com ela, várias religiões primitivas tornam a mulher intocável no período menstrual: ela daria azar ou mesmo mataria o guerreiro ou o caçador que imprudentemente a tocasse.
 
@@ -27,9 +23,7 @@ A mulher gera filhos e os expele entre o sangue e placenta. Ela os alimenta, atr
 
 O grande colegiado masculino da inquisição (uma sociedade masculina como a militar) sacrificou muitas mulheres vendo nelas poderes maléficos, demoníacos.
 
-Em culturas guerreiras e intelectualmente notáveis como a Grécia Antiga, o amor à mulher era considerado algo inferior, digno de Afrodite Pandêmia, a deusa popular do amor, “ pois o que nela se ama é mais o corpo que a alma e  ainda (são os seus adoradores) os mais desprovidos de inteligência, tendo em mira apenas efetuar o ato”. Assim falou Pausanias no famoso Banquete de Platão. O amor celestial vem de Urânia, que “primeiramente não participa da fêmea, mas só do macho – e esta é o amor aos homens jovens,daí então é que se voltam ao que é másculo
-
-os inspirados deste amor, afeiçoando-se ao que é de natureza mais forte e que tem mais inteligência”.
+Em culturas guerreiras e intelectualmente notáveis como a Grécia Antiga, o amor à mulher era considerado algo inferior, digno de Afrodite Pandêmia, a deusa popular do amor, “ pois o que nela se ama é mais o corpo que a alma e  ainda (são os seus adoradores) os mais desprovidos de inteligência, tendo em mira apenas efetuar o ato”. Assim falou Pausanias no famoso Banquete de Platão. O amor celestial vem de Urânia, que “primeiramente não participa da fêmea, mas só do macho – e esta é o amor aos homens jovens,daí então é que se voltam ao que é másculo os inspirados deste amor, afeiçoando-se ao que é de natureza mais forte e que tem mais inteligência”.
 
 Na sociedade grega antiga, raras mulheres ocupavam o lugar de pensadora: as hetairas – sacerdotisas do amor, algumas poetas como Sapho de Lesbos. A função principal era a da procriação. Logo, o homoerotismo masculino era o resultado da busca de algo superior.
 

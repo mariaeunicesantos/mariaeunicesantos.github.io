@@ -14,9 +14,7 @@ Antonio
 P.S. Freud explica?
 
 Caro Antonio. Foi em 1912 que Freud escreveu um artigo com o forte titulo Sobre uma degradação geral da vida erótica, sobre este tema. Pois é, meu amigo, Freud tenta – não sei se explica, mas este texto deveria se tornar livro de cabeceira de uma grande parte dos homens. E eu peço permissão para citá-lo porque é muito adequado “O primeiro dado para a compreensão do estado de impotência psíquica é obtido pelo próprio paciente ao observar que a falha só se produz com uma pessoa determinada e não com outras”. E ele continua falando que o que assegura uma conduta erótica perfeita é a junção da “corrente carinhosa
-com a corrente sexual”. A experiência carinhosa é obtida nos primeiros anos de vida pelas relações com aqueles que cuidam da criança, nos jogos prazerosos e nos cuidados corporais. Durante este período a
-
-criança vai descobrir seu corpo e seus prazeres. E, evidente, que vai sofrer as censuras, de acordo com os tabus e os complexos dos pais.
+com a corrente sexual”. A experiência carinhosa é obtida nos primeiros anos de vida pelas relações com aqueles que cuidam da criança, nos jogos prazerosos e nos cuidados corporais. Durante este período a criança vai descobrir seu corpo e seus prazeres. E, evidente, que vai sofrer as censuras, de acordo com os tabus e os complexos dos pais.
 
 Assim, meu caro, o espaço onde a sexualidade pode desabrochar é o da liberdade. A sexualidade é uma festa. Quanto mais censura, preocupações, interdições, exigências, experiências violentas ou traumáticas, mais frigidez ou impotência.
 

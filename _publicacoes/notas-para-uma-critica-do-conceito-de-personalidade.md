@@ -7,7 +7,7 @@ resumo: "Questionamento da eficácia epistemológica do conceito de personalidad
 
 Notas para uma critica do conceito de personalidade
 
-                                             Maria Eunice Santos
+Maria Eunice Santos
 
 O conceito de Personalidade em Psicologia, é um conceito vivo?Isto é, ele ainda tem alguma eficácia epistemologica no atual espaço teórico dessa ciência? O que êle realmente designa?
 Que realidades busca recortar? Podemos hemogansizar os heteróclitos termos-age, self,sujeito,eu,............ numa única definição que os............recubra, a saber, no conceito de Personalidade? O que esse conceito carrega consigo em termos de comprometimentos ideológicos, metafísicos ou cientificistas?De onde ele retirou sua legitimidade e essa quase perenidade no discurso da Psicologia?
@@ -25,7 +25,7 @@ O Homem,sucessivamente descentrado de seus privilégios- por Darwin, com relaç�
 O humanismo, nesse caso, não seria uma faca de dois gumes?Na medida mesmo em que caracterizar a Personalidade como linear, harmônica, contínua, significa referendá-la numa lógica não dialética,onde o homem,ignorado nas suas pequenas revoluções,na anormalidade de sua inserção no mundo,é forçado a se travestir numa aparência petrificada, onde as mudanças seriam recuperadas pelos aspectos globais, típicos, (isto é, o asperável, o determinável), da Personalidade? Desse modo uma identidade nos é assegurada, mesmo a nossa revelia, pelo nome de batismo que nos impuseram, pelo signo com o qual nos codificaram. Uma transformação radical não e desejada: ela é castrada no momento mesmo em que o social estabelece uma relação especular com o sujeito, onde este, assujeitado, se assume na “normalidade”, chega mesmo a acreditar nela. De outra forma, é a loucura ou a marginalidade. Em suma, um péssimo negócio.
 Uma critica necessária a está tentativa de coagular o humano em estados definitivos, vem de Cooper, em Psiquiatria e  Antipsiquiatria, 1967: “A realidade humana é aquele setor da realidade onde a totalização constitui o próprio modo de ser. Uma totalidade é algo completo, que por outro lado, é um movimento perpetuo, através de toda vida de um sujeito um movimento de progressiva auto- definição sintética, o que, em principio,não pode ser apreendido pelo método que a deteria.(...) O que se processa numa relação recíproca de uma transação bipessoal é o seguinte: eu o totalizo,porém na sua recíproca totalização de mim, você inclui minha totalização de você, de modo que minha totalização de você implica uma totalização de sua totalização de mim, e assim por diante.”
 
-                                          QUE A
+QUE A
 EXISTE UMA DEMANDA SOCIAL PSICOLOGIA DA PERSONALIDADE RESPONDE?
 
 Reich foi, provavelmente o primeiro que problematizou o conceito gêmeo de caráter,relacionando-o com as condições repressivas das sociedades patriarcais ou das tendências facistas dos Estados totalitários.No seu livro análise de caráter, estuda a repressão social da sexualidade como produtor de angustia, cujo mal estar tenta ser controlado através da construção de uma couraça caracterologica.

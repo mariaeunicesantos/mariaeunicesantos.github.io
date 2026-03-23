@@ -7,9 +7,9 @@ resumo: "Observações sobre \"Um Distúrbio de Memória na Acrópole\" de Freud
 
 Entre a Memória e o Olhar:
 
-                  OBSERVAÇÕES SOBRE: “UM DISTURBIO DE MEMÓRIA NA ACROPOLE”
+OBSERVAÇÕES SOBRE: “UM DISTURBIO DE MEMÓRIA NA ACROPOLE”
 
-                                   I
+I
 
 No ano e 1936, comemora-se o septuagésimo aniversário de Romain Rolland. Freud lhe escreve, e está carta é em si o presente de aniversário. Mais do que a carta, (aberta, aquilo que a encaminha e que Freud denominou: “UM DISTÚRBIO de Memória na Acrópole”).
 Freud é dez anos mais velho que RR, e em 1926 já tinha escrito uma outra carta de entusiástica admiração, mas nesta ainda se sente que os adjetivos apaixonados com que descreve seus sentimentos são, por assim dizer, a “carta roubada”, exposta demais para esconder o roteiro que faz o caminho dessa admiração.
@@ -21,11 +21,11 @@ Mas é, em “Distúrbio”, que Freud abdica da disputa e da fala excessiva sob
 
 2. Vol.          das Obras Completas.
 
-                                           II
+II
 
 A um escritor Freud dá à escrita do inconsciente: nada nos indica que Romain Rolland queira isso, isso demande, mas Freud quer dar. E o que dá,é,por assim dizer,aquilo que sobra da criação e do amor nessa criatura devastada pela doença,pelos anos que - já viram demais,pela velhice.Mudando um pouco a fórmula conhecida, “amar é dar aquilo que não se tem” (e nesse caso o não se ter está no cerne do próprio estranho presente - um distúrbio de memória, portanto uma falta, F. assim está dando o que ele não logrou apreender,sua aventura no risco de dizer, e desse modo a sua fórmula é pleonástica, porque arriscar, aventurar e dizer são os dons que pertencem ao centro dessa experiência rara que é o amor, mesmo) assim,ele “dá aquilo que não se tem àquele que não pediu”. Porque RR é um suave pretexto para que Freud recoloque de novo no caminho a carta desviada- “o dom de uma criatura empobrecida”.
 
-                                III
+III
 
 Passaram-se 32 anos para Freud pudesse encarar o estranho que lhes aconteceu, a ele e ao irmão, em Atenas.
 
@@ -70,7 +70,7 @@ E porque positivos? Eles realmente afirmam a existência do evento, só que acon
 
 Ora, o Sentimento de pequenez passa, nesta associação para o sentimento do triunfo e daí para a culpa, porque de quem se triunfa é exatamente o pai, e daí para, de novo, o sentimento de inferioridade e o seu constrangimento: é desse pai que eu nasci; eu Freud, um imperador, nasci dessa lama e o meu irmão, meu companheiro silencioso neste transtorno, é duplamente meu próximo e meu inimigo porque ele é o cúmplice dessa arrogância e a testemunha da miséria que a impulsionou e que a faz.
 
-     E aí nesse ponto, deixemos que Freud nos conte seu sonho de Aníbal no seu “Material infantil como Fonte dos sonhos”: “Estava prestes a elaborar um plano para contornar Roma no ano seguinte e ir até Nápoles, quando me ocorreu uma frase que devo ter lido em um dos nossos autores. Qual dos dois, pode-se argumentar, caminhou para cima e para baixo em seu gabinete com a maior impaciência depois de haver formado seu plano de ir à Roma – Winckelmann, o Vice- Chefe, ou Aníbal, o Comandante- Chefe?2 Na realidade, eu vinha seguindo as pegadas da Aníbal. Como ele, estava destinado a não ver Roma; e também êle fora até a Campagna quando todos o haviam esperado em Roma. Mas Aníbal, com que eu viera a assemelhar-me nesse sentido, fora o herói predileto de meus últimos dias escolares. Como tantos meninos daquela idade, nas Guerras Púnicas simpatizara não com os romanos, mas com os cartagineses. E quando no curso superior comecei a compreender pela primeira vez o que significava pertencer a uma raça estrangeira, e os sentimentos anti-semitas entre os outros rapazes me advertiram que eu devia assumir uma posição definida, a figura do general semita elevou-se ainda mais me meu conceito. Para minha mente jovem Aníbal e Roma simbolizavam p conflito entre a tenacidade dos judeus a e organização da igreja católica. E a importância crescente dos efeitos do movimento anti-semita sobre nossa vida emocional ajudou a fixar os pensamentos e sentimentos daqueles primeiros dias.Assim, o desejo de ir à Roma tornara-se minha vida onírica o manto e o símbolo de grande número de outros desejos. Sua concretização iria ser percebida com toda a perseverança a unidade de espírito do cartaginês, embora sua realização se afigurasse,no momento tão pouco favorecida pelo destino como o foi desejo de toda a vida de Aníbal de entrar em Roma.
+E aí nesse ponto, deixemos que Freud nos conte seu sonho de Aníbal no seu “Material infantil como Fonte dos sonhos”: “Estava prestes a elaborar um plano para contornar Roma no ano seguinte e ir até Nápoles, quando me ocorreu uma frase que devo ter lido em um dos nossos autores. Qual dos dois, pode-se argumentar, caminhou para cima e para baixo em seu gabinete com a maior impaciência depois de haver formado seu plano de ir à Roma – Winckelmann, o Vice- Chefe, ou Aníbal, o Comandante- Chefe?2 Na realidade, eu vinha seguindo as pegadas da Aníbal. Como ele, estava destinado a não ver Roma; e também êle fora até a Campagna quando todos o haviam esperado em Roma. Mas Aníbal, com que eu viera a assemelhar-me nesse sentido, fora o herói predileto de meus últimos dias escolares. Como tantos meninos daquela idade, nas Guerras Púnicas simpatizara não com os romanos, mas com os cartagineses. E quando no curso superior comecei a compreender pela primeira vez o que significava pertencer a uma raça estrangeira, e os sentimentos anti-semitas entre os outros rapazes me advertiram que eu devia assumir uma posição definida, a figura do general semita elevou-se ainda mais me meu conceito. Para minha mente jovem Aníbal e Roma simbolizavam p conflito entre a tenacidade dos judeus a e organização da igreja católica. E a importância crescente dos efeitos do movimento anti-semita sobre nossa vida emocional ajudou a fixar os pensamentos e sentimentos daqueles primeiros dias.Assim, o desejo de ir à Roma tornara-se minha vida onírica o manto e o símbolo de grande número de outros desejos. Sua concretização iria ser percebida com toda a perseverança a unidade de espírito do cartaginês, embora sua realização se afigurasse,no momento tão pouco favorecida pelo destino como o foi desejo de toda a vida de Aníbal de entrar em Roma.
 
 1.Interpretação dos Sonhos, volume IV das Obras Completas.
 
@@ -86,7 +86,7 @@ Agora, portanto, a “hybris” desse filho pródigo que jamais volta à casa, s
 
 E aí então Freud se encontra no centro de uma aporia: ele precisa inventar um pai em relação a quem deve triunfar, porque a sua miséria, o que lhe coloca em absoluto desamparo, não é a culpabilidade de confrontar um pai sobre quem se triunfa, mas de não ter sequer um pai para triunfar: isto é, a testemunha de seu triunfo, o que reconhece alguém para quem esse triunfo faça sentido.
 
-                                  IV
+IV
 
 Mas há um primeiro texto em que Freud traz elementos importantes para a construção de uma análise desses 2º texto, (O Distúrbio): trata-se do “Estranho”, escrito por Freud em 1919, onde deplora a sua falta de experiência sobre o tema, dizendo:
 
@@ -122,7 +122,7 @@ Mas que ato é esse que esse cenário abriga? E porque esse olhar negado?“Rank
 
 3.Hamlet, de Lacan.
 
-                                V
+V
 A primeira carta de Freud a Romain Roland, datada de 4 e março de 123, Bergassen,Viena, polariza sobre dois pontos: o amor que se estende por toda a humanidade, -a característica admirável- fonte radical da admiração de Freud pelo escritor, e a assunção do seu pertencimento ao povo judeu, “raça que na Idade Médica era considerada culpada por todas as epidemias e que hoje é culpada pela desintegração do Império Austríaco e pela derrota alemã”.Portanto ele fala do amor à humanidade e o ódio à uma parte a qual pertence.
 Na carta de janeiro de 1926, Freud insiste no valor do amor a humanidade em RR, causa que ele próprio advoga, não por idealismo ou sentimentalismo, mas por “motivos econômicos”: este amor seria a única força a prevenir a espécie humana da sua terrível e mesquinha autodestruição.
 
@@ -138,11 +138,11 @@ A última carta, antes do “Distúrbio”, de maio de 1931 merece ser transcrit
 
 “Aproximando-se o inevitável fim da vida, relembrado do fato por mais uma operação e ciente de que não é provável que eu volte a vê-lo, devo confessar-lhe que raramente experimentei essa misteriosa atração de um ser humano por outro tão vividamente com o senhor; é algo talvez de alguma forma acompanhado da consciência de que somos tão diferentes. Adeus”.
 
-                         VI
+VI
 
 A última carta, em forma de ensaio, é a análise do acontecido na Acrópole. Diante dela, interrogo-me:
 
 Mas porque, afinal de contas, esse título, herdado do racionalismo psiquiátrico- “Distúrbio de memória”-para designar uma simples, desvelada e fascinante carta de amor?
 
-                                                                               Maria Eunice Santos
+Maria Eunice Santos
                                                                                  86 / setembro 87.

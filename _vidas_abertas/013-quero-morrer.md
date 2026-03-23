@@ -13,7 +13,7 @@ Cansei estou exausta...nada me motiva, nem filhos, nem amores, nem maridos, nem 
 
 Acho essa vida toda sem sentido. Se houver reencarnação é mais chato ainda. Não! Tudo de novo, não. Ou melhorzinho um pouco. Somos gado marcado para morrer. A natureza é cruel e ainda não a dominamos. Se for Deus, que senso negro de humor...
 
- Não querida, não estou deprimida. Continuo a fazer tudo que exigem de mim e tudo que eu me exijo. Só que não vejo mais sentido. Quando eu era jovem, me perguntava se valia a pena toda essa luta, mas me engajava nela só para saber se eu teria chance de vencer. Venci. O que? O leão de Nemeia está banguela, Medeia foi para um SPA, e Esfinge esqueceu do próprio enigma.
+Não querida, não estou deprimida. Continuo a fazer tudo que exigem de mim e tudo que eu me exijo. Só que não vejo mais sentido. Quando eu era jovem, me perguntava se valia a pena toda essa luta, mas me engajava nela só para saber se eu teria chance de vencer. Venci. O que? O leão de Nemeia está banguela, Medeia foi para um SPA, e Esfinge esqueceu do próprio enigma.
 
 Nenhuma surpresa meu amor nem no lançamento Outono Inverno que nós não temos.
 

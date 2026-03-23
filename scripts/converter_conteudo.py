@@ -234,6 +234,94 @@ def limpar_texto(texto):
     return '\n'.join(resultado).strip()
 
 
+def eh_inicio_estrutural(texto):
+    """Verifica se o parágrafo é um início estrutural que nunca deve ser juntado."""
+    stripped = texto.strip()
+    lower = stripped.lower()
+
+    # Saudações de resposta (início da resposta da Eunice)
+    saudacoes = ['cara ', 'caro ', 'querida ', 'querido ', 'prezada ', 'prezado ',
+                 'minha querida', 'meu querido']
+    if any(lower.startswith(s) for s in saudacoes):
+        return True
+
+    # Saudações de carta (início da carta do leitor)
+    if lower.startswith('eunice') or lower.startswith('dra.') or lower.startswith('dra '):
+        return True
+
+    return False
+
+
+def eh_assinatura_ou_nome(texto):
+    """Verifica se o parágrafo é provavelmente uma assinatura (nome curto)."""
+    stripped = texto.strip().rstrip('.')
+    palavras = stripped.split()
+    # Nome: 1-3 palavras, curto, começa com maiúscula, sem pontuação de frase
+    if 1 <= len(palavras) <= 3 and len(stripped) < 35:
+        if stripped[0].isupper() and not stripped.endswith(('?', '!', ':')):
+            return True
+    return False
+
+
+def rejuntar_paragrafos(texto):
+    """
+    Rejunta parágrafos que foram divididos por quebras de página no .doc original.
+
+    Detecta quando um parágrafo termina sem pontuação final (frase incompleta)
+    e o próximo parágrafo continua a frase (começa com minúscula).
+    Junta-os num único parágrafo.
+
+    NÃO junta quando:
+    - O próximo parágrafo é uma saudação (Cara..., Querida..., Dra...)
+    - O parágrafo atual é uma assinatura (nome curto)
+    - O próximo parágrafo é claramente um novo contexto
+    """
+    paragrafos = texto.split('\n\n')
+    resultado = []
+    acumulador = ''
+
+    for paragrafo in paragrafos:
+        paragrafo = paragrafo.strip()
+        if not paragrafo:
+            continue
+
+        if not acumulador:
+            acumulador = paragrafo
+            continue
+
+        # NUNCA juntar se o próximo é um início estrutural
+        if eh_inicio_estrutural(paragrafo):
+            resultado.append(acumulador)
+            acumulador = paragrafo
+            continue
+
+        # NUNCA juntar se o acumulador é uma assinatura
+        if eh_assinatura_ou_nome(acumulador):
+            resultado.append(acumulador)
+            acumulador = paragrafo
+            continue
+
+        # Verificar se o acumulador termina com frase incompleta
+        ultimo_char = acumulador.rstrip()[-1] if acumulador.rstrip() else ''
+        fim_de_frase = ultimo_char in '.!?:;"\u201D\u2019)\u2026'
+
+        # Verificar se o parágrafo atual começa continuando uma frase
+        primeiro_char = paragrafo.lstrip()[0] if paragrafo.lstrip() else ''
+        comeca_com_minuscula = primeiro_char.islower()
+
+        # Juntar apenas se: frase anterior não terminou E próxima começa com minúscula
+        if not fim_de_frase and comeca_com_minuscula:
+            acumulador = acumulador.rstrip() + ' ' + paragrafo.lstrip()
+        else:
+            resultado.append(acumulador)
+            acumulador = paragrafo
+
+    if acumulador:
+        resultado.append(acumulador)
+
+    return '\n\n'.join(resultado)
+
+
 def criar_frontmatter(titulo, tipo='Ensaio', resumo='', autor='Maria Eunice Santos', categoria='publicacao'):
     """Gera o frontmatter YAML para Jekyll."""
     # Escapar aspas no título e resumo
@@ -268,6 +356,7 @@ def processar_publicacoes():
 
         texto = converter_doc_para_texto(caminho)
         texto = limpar_texto(texto)
+        texto = rejuntar_paragrafos(texto)
 
         slug = criar_slug(titulo)
         nome_arquivo = f'{slug}.md'
@@ -304,6 +393,7 @@ def processar_franceses():
 
         texto = converter_doc_para_texto(caminho)
         texto = limpar_texto(texto)
+        texto = rejuntar_paragrafos(texto)
 
         slug = criar_slug(titulo)
         nome_arquivo = f'{slug}.md'
@@ -512,6 +602,7 @@ def parsear_vidas_abertas():
             titulo = titulo[:97] + '...'
 
         conteudo = limpar_texto('\n'.join(artigo['linhas']))
+        conteudo = rejuntar_paragrafos(conteudo)
 
         # Gerar resumo a partir das primeiras linhas
         primeiro_paragrafo = ''

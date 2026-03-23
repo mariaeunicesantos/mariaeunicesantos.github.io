@@ -17,9 +17,7 @@ Quando Foucault falou sobre os alunos, ele os concebeu como analistas ferozes do
 
 Nesta coluna, eu e meus leitores que escrevem, nos colocamos numa posição frágil semelhante: vocês, silenciosos e invisíveis, ocupam o lugar de um analista bastante tradicional que não se deixa ver, que não se expõe.
 
-O exemplo do outro não só é importante como instrução, mas como constituição de uma modelo de identidade. Diante do espelho, a mãe, o pai, a babá, a vovó, desenham para o pequeno bebê o rosto que ele
-
-será, lhe dará um nome, nomeará semelhanças, lhe vestirá segundo um determinado sexo.
+O exemplo do outro não só é importante como instrução, mas como constituição de uma modelo de identidade. Diante do espelho, a mãe, o pai, a babá, a vovó, desenham para o pequeno bebê o rosto que ele será, lhe dará um nome, nomeará semelhanças, lhe vestirá segundo um determinado sexo.
 
 Portanto, o homem será concebido a imagem e semelhança de um juízo, de um exemplo, de uma demonstração de uma fantasia. Aí se constrói uma matriz de um processo que criará marcas indeléveis para toda a vida. O que esperaram de nós? A que nos assemelharam? De que nos distinguiram?
 

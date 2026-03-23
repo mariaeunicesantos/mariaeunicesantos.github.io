@@ -12,7 +12,7 @@ Quem somos nós diante desse estado, cara Eunice, mero supositório.
 Enchi.
   Ciao.
 
-  Perséfone (você assistiu Matrix?)!
+Perséfone (você assistiu Matrix?)!
 
 Bem Perséfone, você agora se tornou a minha esfinge.
 
@@ -34,9 +34,7 @@ Percebi como é libertador pensar firmemente na sua hora de morrer, imaginando c
 
 A cultura tem um medo terrível de pensar neste assunto: um amigo a quem eu comuniquei o que eu queria fazer no final de semana arrepiou-se: que assunto sombrio, nem me fale isso!
 
-No entanto, os jornais escritos e televisivos vendem mais, quanto mais mortes e tragédias exibem. Logo, eu posso concluir que as pessoas se
-
-fascinam pela morte do outro como se com isso expurgasse de si o grande temor, o grande recalcamento: eu vou morrer um dia ou uma noite. Ao mesmo tempo que vêem a morte do outro  confirmam por esse viés que estão vivos. O Consolo é: até agora é o outro que morre, eu estou ganhando. Equivocada e sórdida competição.
+No entanto, os jornais escritos e televisivos vendem mais, quanto mais mortes e tragédias exibem. Logo, eu posso concluir que as pessoas se fascinam pela morte do outro como se com isso expurgasse de si o grande temor, o grande recalcamento: eu vou morrer um dia ou uma noite. Ao mesmo tempo que vêem a morte do outro  confirmam por esse viés que estão vivos. O Consolo é: até agora é o outro que morre, eu estou ganhando. Equivocada e sórdida competição.
 
 No entanto, esta mesma cultura que recalca a morte produz o suicídio. Como todo recalcado que falha, explode num sintoma.
 

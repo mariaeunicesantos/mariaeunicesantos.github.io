@@ -34,7 +34,7 @@ Quero falar para você de um casamento fracassado e vazio. Vivo há 23 anos com 
 
 Amo minha filha, mas minha mulher resolveu, de maneira irresponsável, contar para ela que eu queria o aborto. E a minha filha tem um grande ressentimento por mim, nossa relação é muito difícil, por causa disso. Eu não queria ter filhos com ela, por que sabia da prisão em que isso ia se transformar!!!mas minha filha, que é muito semelhante a mim e que também escolheu a minha profissão, eu a escolheria, sempre!
 
-  Não tenho coragem de contar isso para minha filha, sou muito fechado e nossa conversa é muito rarefeita, e nossa relação muito turbulenta, por causa dessa história muito mal contada. Pedi a separação muitas vezes, mas a minha mulher é intratável e não aceita nenhum acordo. Trata-me muito mal, recebe mal aos meus amigos e como minha profissão tem um lado político importante, ela tem prejudicado minha carreira. Hoje tomei a consciência disso. Temos uma outra filha que começa a sua adolescência, não quero deixá-la agora. Não quero deixar também os bens todos para minha mulher, por que ela quer tudo!
+Não tenho coragem de contar isso para minha filha, sou muito fechado e nossa conversa é muito rarefeita, e nossa relação muito turbulenta, por causa dessa história muito mal contada. Pedi a separação muitas vezes, mas a minha mulher é intratável e não aceita nenhum acordo. Trata-me muito mal, recebe mal aos meus amigos e como minha profissão tem um lado político importante, ela tem prejudicado minha carreira. Hoje tomei a consciência disso. Temos uma outra filha que começa a sua adolescência, não quero deixá-la agora. Não quero deixar também os bens todos para minha mulher, por que ela quer tudo!
 
 Mas, assim mesmo, minha mulher quer se casar oficialmente comigo. Não entendo como, diante de uma situação dessa, ela ainda quer isso. Tenho tido namoradas, casos, amantes, mas nada vai muito adiante porque eu não sei me desvencilhar dessa situação. Tive uma namorada que descobriu que ela fez um trabalho de feitiçaria contra mim, não sei se acredito nessas coisas, nunca fui a um terreiro na minha vida. Não sei o que fazer.
 
@@ -61,7 +61,7 @@ Ser protagonista da sua vida, transformando-a, implicaria numa escolha trabalhos
 
 Freud esclarece que o gozo da identificação com o personagem do drama”afunda mais nas possibilidade emocionais logrando transformar ainda as mais sombrias ameaças do destino em algo desfrutável de modo que represente o herói acossado pela calamidade, fazendo-o sucumbir com certa satisfação masoquista.”
 
- “É indubitável que este significado do drama guarda certa relação com sua dependência dos ritos sacrificais (o bode expiratório) no culto dos deuses: O drama aplaca de certa maneira, a incipiente rebelião contra a ordem divina que decretou o império do sofrimento”.
+“É indubitável que este significado do drama guarda certa relação com sua dependência dos ritos sacrificais (o bode expiratório) no culto dos deuses: O drama aplaca de certa maneira, a incipiente rebelião contra a ordem divina que decretou o império do sofrimento”.
 
 Onde está em você este Deus cruel e insaciável? Com que rosto ele se traveste? Que voz ele tem? A do pai? A da mãe? Ou você presenciou um sofrimento outro que você tem que pagar por ele? Porque crimes você se oferece em sacrifício? Por amor a quem? No lugar de quem?
 

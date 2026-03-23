@@ -7,7 +7,7 @@ resumo: "Projeto de tese doutoral sobre o tempo e o olhar como operadores teóri
 
 ANTE – PROJETO  DE TESE PARA DOUTORADO
 
-            O TEMPO, O OLHAR, A ÉTICA.
+O TEMPO, O OLHAR, A ÉTICA.
 
 O tempo e o olhar em Psicanálise foram quase silenciados enquanto operadores teóricos desde o aforisma freudiano –“O inconsciente não conhece o tempo”, e o privilegio da palavra e da coisa ouvida no trabalho da escuta psicanalítica. E certo que Lacan introduziu a idéia do tempo lógico, o instante do olhar, o tempo para compreender e o momento de concluir, como constitutivos do tecido psicanalítico, mas ainda falta um trabalho de desdobramento da letra da questão, seus propulsores, seus restos, seus acidentes, enfim, sua genealogia.
 Encontro no conto de Kafka – “Diante da Lei”, um   amalgama literário destas três questões – tempo, olhar, ética. Trata-se de um camponês que vai a porta da lei, ele tenta entrar ai, mas e barrado pelo aviso do guarda: ”mesmo o segundo lá dentro, eu não posso olhá-lo tão terrível seria sua visão” O camponês para, e espera por toda sua vida o melhor momento para faze-lo. Ao fim de sua vida ele se dirige ao guarda para lhe perguntar porque, após tantos anos, ninguém tentou, como ele ultrapassar aquele umbral. A resposta mortífera, impiedosa, vem: “Porque ela estava aberta para você somente, mas como você não tentou, eu a fecho.

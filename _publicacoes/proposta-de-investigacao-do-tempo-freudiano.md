@@ -28,7 +28,7 @@ Eis a vista bibliografia a qual terei que me dirigir:
 
 3-Charcort. 1893
 
- SOBRE O SINTOMA HISTÉRICO
+SOBRE O SINTOMA HISTÉRICO
 
 1-Estudos sobre histeria 1893/5, especialmente (1).
 1.1- O mecanismo psíquico dos fenômenos histéricos.

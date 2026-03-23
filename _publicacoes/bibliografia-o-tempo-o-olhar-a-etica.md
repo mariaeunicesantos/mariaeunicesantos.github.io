@@ -7,11 +7,11 @@ resumo: "Bibliografia comentada sobre tempo, olhar e ética na filosofia e na ps
 
 Bibliografia sobre o Tempo, Olhar,a Ética
 
-                     Bliografia
+Bliografia
 
-             Filosofia  e Psicanálise
+Filosofia  e Psicanálise
 
-         O Tempo, o Olhar,   a Ética
+O Tempo, o Olhar,   a Ética
 
 Os Pré-Socraticos
 

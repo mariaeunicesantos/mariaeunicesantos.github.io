@@ -11,9 +11,9 @@ Atormentado pela formação religiosa, um homem se divide entre o prazer e a cul
 
 Cara Eunice. Antes de tudo gostaria de parabenizá-la por este espaço e pela maneira séria e respeitosa como vem tratando seus consulentes. Bom, vamos ao que me atormenta: sou casado, 40 anos e tive uma formação religiosa cristã mais ou menos severa. De uns tempos pra cá venho me questionando muito sobre a questão da monogamia, e por conta disso até me permitir ter uma ou duas amantes, experiências que me levaram a muitos questionamentos, que terminaram por me render um saldo de muita culpa, acredito que em razão da severidade da minha formação religiosa.
 
- Procurei alguns livros interessantes sobre o tema e confesso-lhe não ter chegado a uma conclusão o “certo” ou “errado” (maniqueísmo?) em derredor dessa questão, que reputo de profunda complexidade, dada a incompatibilidade de apreciação do fato sobre ordens tão díspares como são a psicológica e a espiritual, se é que se pode fazer uma cisão entre elas.
+Procurei alguns livros interessantes sobre o tema e confesso-lhe não ter chegado a uma conclusão o “certo” ou “errado” (maniqueísmo?) em derredor dessa questão, que reputo de profunda complexidade, dada a incompatibilidade de apreciação do fato sobre ordens tão díspares como são a psicológica e a espiritual, se é que se pode fazer uma cisão entre elas.
 
-  Gostaria de alguma contribuição sua no sentido de me ajudar a entender a minorar esse conflito que me assola, o qual, seguramente, não é privilégio meu.
+Gostaria de alguma contribuição sua no sentido de me ajudar a entender a minorar esse conflito que me assola, o qual, seguramente, não é privilégio meu.
   Aguardarei com afã as suas considerações, que de logo agradeço.
 Um abraço,
 Zéfiro

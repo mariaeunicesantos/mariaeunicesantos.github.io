@@ -19,7 +19,7 @@ Exemplo: ao ler o texto de Nietzsche sobre Tales de Mileto (2), temo chegar, em 
 
 Se recorrermos à literatura freudiana, a sua obra completa, verá que é sumária, pequena, quase insignificante, as referências explícitas que ele faz a Nietzsche. Podemos tomar para a análise à primeira delas:
 
- Na Interpretação dos Sonhos nós encontramos, na pág. 351, Vol. IV, Meios de Representação no Sonho.
+Na Interpretação dos Sonhos nós encontramos, na pág. 351, Vol. IV, Meios de Representação no Sonho.
 
 “Mais uma vez, poder-se-ia esperar que a intensidade sensorial, isto é, a vivacidade de imagens do sonho específicas estivesse relacionada com a intensidade psíquica dos elementos nos pensamentos oníricos correspondentes a elas”. Nos segundos, a intensidade coincide com o valor (Wertigkeit) psíquico: os elementos mais intensos são também os mais significativos – aqueles que formam o ponto central dos pensamentos oniricos. Sabemos, é verdade, que são estes precisamente os elementos que, por causa da censura, geralmente não são admitidos no conteúdo do sonho. Não obstante, bem que poderia ser que seus derivados imediatos que os representam no sonho pudessem representar um grau mais elevado de intensidade, sem necessariamente formarem o centro do sonho. Mas essa expectativa também e frustrada
 por um estudo comparativo dos sonhos e do material dos sonhos. A intensidade dos elementos em um não tem nenhuma relação com a intensidade dos elementos no outro. O fato é que uma completa “Uma Wertung Aller Psychischer Werte”, transposição de todos os valores psíquicos, se verifica entre o material dos pensamentos oniricos e o sonho.
@@ -50,7 +50,7 @@ Nietzsche num pequeno diálogo poema diz o mesmo:
 
 “A – Estive doente”? Estou já são? Quem foi que me curou então?
 
-        Como é que esquecer-me pude?
+Como é que esquecer-me pude?
 
 B-Começo a acreditar que já estais são, pois quem se esqueceu é que.
 “tem saúde”.
@@ -103,7 +103,7 @@ O sonho pode ser uma fonte de riqueza ou de pobreza segundo nos traga ou arranqu
 
 Tomar então o trabalho de Freud significa interpretá-lo: trabalho ao mesmo tempo erudito e solitário. É preciso então sustentar o difícil trabalho de fragmentação e abdicar de uma meta. O ponto final é esse recorte aqui e o nosso trabalho é também de um filólogo: alguém que se dispõe a dedicar um dia do seu tempo para a análise de uma palavra.
 
- Em suma, rir daquele que quer buscar o verdadeiro Freud, essa idéia de “verdadeiro Freud”... essa idéia de verdadeiro não passa do travestimento do mais odioso autoritarismo que institucionaliza para este homem uma leitura e convoca seguidores.
+Em suma, rir daquele que quer buscar o verdadeiro Freud, essa idéia de “verdadeiro Freud”... essa idéia de verdadeiro não passa do travestimento do mais odioso autoritarismo que institucionaliza para este homem uma leitura e convoca seguidores.
 
 Isso significa correr o risco da interpretação e introduzir um valor. Isso nos evoca a noção de valor em Saussure: não ficar procurando como míopes o lugar exato onde se pode colar o significante e o significado mas reconhecer que estes não existem senão em função de uma articulação; a mobilidade de um signo transtorna o outro signo, há um jogo de forças que nunca se aplaca.
 

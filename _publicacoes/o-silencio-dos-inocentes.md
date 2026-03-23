@@ -7,7 +7,7 @@ resumo: "Leitura psicanalítica do filme — o médico como monstro e a ambiguid
 
 O Silêncio dos Inocentes
 
-                                     Maria Eunice Santos
+Maria Eunice Santos
 
 O médico é o monstro, não se enganem.
 

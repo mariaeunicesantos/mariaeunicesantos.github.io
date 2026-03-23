@@ -19,7 +19,7 @@ artes, a atividade sexual perversa (isto é, desviada da finalidade genital)”.
 
 Isso quer dizer que existe um nível de atividade humana que é puro desperdício. Não necessariamente prazeroso porque se incluem aí as guerras, os lutos e os “bodes” como esse seu. O famoso tédio post-coitum.
 
- Está frenética busca pelos prazeres não é uma ordem privativa nem sua nem dos baianos. É fruto de um momento contemporâneo, onde quanto mais nos preocupamos com a decadência financeira da classe média, com os efeitos Brasil de risco, com os Fernandinhos Beira-Mar detonando a prefeitura do Rio de Janeiro, com os assaltos a mão armada atrás do Aeroclube, e em plena Ondina dos hotéis ao meio-dia;
+Está frenética busca pelos prazeres não é uma ordem privativa nem sua nem dos baianos. É fruto de um momento contemporâneo, onde quanto mais nos preocupamos com a decadência financeira da classe média, com os efeitos Brasil de risco, com os Fernandinhos Beira-Mar detonando a prefeitura do Rio de Janeiro, com os assaltos a mão armada atrás do Aeroclube, e em plena Ondina dos hotéis ao meio-dia;
 mais buscamos esquecer nossa insegurança e nos deixamos envolver por tentações que possam nos devolver a nossa inocência do paraíso perdido.
 
 Depois da construção do império romano, vem a decadência e a dissolução dos costumes. Depois do trabalho, a esbórnia. Depois da acumulação de riquezas, a celebração do gasto. Mas no nosso caso – o dos baianos – onde está nossa acumulação? Onde nossa riqueza? Nossa orla (a parte mais cantada do nosso território) está decadente (sem nunca ser acendido) e visualmente poluída. O povo triste e pobre. A nossa alegria é fútil e sem sentido.

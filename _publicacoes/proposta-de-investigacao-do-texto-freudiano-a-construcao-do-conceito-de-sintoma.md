@@ -36,11 +36,11 @@ O mecanismo psíquico dos fenômenos histéricos .
 
 Sobre a teoria do acesso histérico. Histórias  Cliícicas
 
-            2-   As neuropsicos de defesa, 1894   ( 4)
+2-   As neuropsicos de defesa, 1894   ( 4)
 
-  3-  Obssessões e fobias, 1894.
+3-  Obssessões e fobias, 1894.
 
-  4-  Projeto de uma psicologia para neurologos. 1895- 1950
+4-  Projeto de uma psicologia para neurologos. 1895- 1950
 Segunda parte, psicopatologia               (2)
 
 5- A herança e a etiologia das neuroses. 1896     ( 3)

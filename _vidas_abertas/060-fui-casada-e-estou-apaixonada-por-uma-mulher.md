@@ -9,7 +9,7 @@ O fim de uma relação conturbada acaba mudando os rumos da vida de Bárbara, ai
 
 Eunice. Moro em salvador a quatro anos, desde que me separei de um casamento conturbado que durou dez anos. Ele, um viciado em drogas e jogo. Humilhada muitas vezes, quando ele dizia que eu já não era uma mulher bonita nem desejável, comecei a engordar gradativamente até mais 30 quilos. Deixei de ser uma mulher gostosa (como ele mesmo dizia, no começo). Desde a minha separação não transei com mais ninguém, morro de vergonha de mostrar meu corpo. Odeio quando alguém diz: “Nossa, você é tão bonita de rosto, tão simpática...”. Pois bem, tem uma mulher maravilhosa, que quer envolvimento comigo. Ela me trata super bem, mas não consigo, morro de vergonha e culpa. Se ela me convida para a praia, para andar, penso no meu corpo, desconverso, não quero expor meus defeitos. Também tenho muita culpa. Culpa do quê, eu não sei.
 
-								Bárbara
+Bárbara
 
 Cara. Terminei de ler sua carta cantarolando: “Bárbara, Bárbara, nunca é tarde, nunca é demais”. Música de Chico, de novo, música incidental que vem como uma interpretação, que vem como uma construção, como um aconselhamento. (Chico tem aparecido muito freqüentemente aqui, nesta coluna e tenho me dado conta de como ele fez a cabeça de minha geração – pois é, querida, somos também o que lemos e o que cantamos).
 

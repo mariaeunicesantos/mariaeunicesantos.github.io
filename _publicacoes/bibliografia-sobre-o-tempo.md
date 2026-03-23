@@ -377,9 +377,7 @@ Logique du Fantasme, mimeografado, dois volumes.
 
 A Transferência
 Ferenczi, Sandor
-Obras Completas
-
-a 1912
+Obras Completas a 1912
       Transfert et introjection
  Reves orientables
 Simptomes transitoires ou cours d´une psychanalyse.
@@ -439,9 +437,9 @@ Ornicar 30
 Michel Silvestre- Lê transfert dans la direction de la cure
 Serge Cottet – Formes de la reacton therapeutique negative
 
-                         Touchez moi, Docteur
+Touchez moi, Docteur
 
-                         On ne s´avise jamais de tout
+On ne s´avise jamais de tout
 
 Ornicar 37
 

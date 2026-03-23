@@ -13,9 +13,7 @@ Como vai? Espero que esteja bem.
 
 Acompanho a tua coluna neste jornal, contando e comentando a história dos outros, e agora tenho que contar minha. Sabe minha cara, há um ano e meio recebi uma cantada de uma colega homossexual por telefone que me deixou desnorteada, com crise de identidade. Eu, com 23 anos, heterossexual, já tinha recebido outra cantada, mas não dei importância. Desta vez, com a colega da faculdade, a história não saía da minha cabeça. Ela ligou para mim com a desculpa do cancelamento de uma reunião de grupo do qual nós estávamos fazendo parte. Eu nem conhecia direito. Tive o primeiro contato com ela na primeira reunião deste grupo.
 
-Me ligou, perguntei como conseguiu meu telefone, ela disse que eu tinha dado e eu disse que era impossível, pois não tinha dado o número para ela. Revelou-me depois que o pegou com minhas colegas. Ela começou a me pedir desculpas, mas
-
-disse que queria revelar algo. Disse que tinha sonhado comigo, e perguntei sobre o sonho, mas ela fez certo charme, pediu desculpas, e disse que não deveria falar. Mas depois começou a contar o que chamava de sonho, o que pra mim não passou de uma jogada.
+Me ligou, perguntei como conseguiu meu telefone, ela disse que eu tinha dado e eu disse que era impossível, pois não tinha dado o número para ela. Revelou-me depois que o pegou com minhas colegas. Ela começou a me pedir desculpas, mas disse que queria revelar algo. Disse que tinha sonhado comigo, e perguntei sobre o sonho, mas ela fez certo charme, pediu desculpas, e disse que não deveria falar. Mas depois começou a contar o que chamava de sonho, o que pra mim não passou de uma jogada.
 
 Eunice, não parei de pensar nisso. Quando eu a via na faculdade, lembrava, comentei com uma amiga, que depois disso passou a observá-la e me informar que ela me devorava com os olhos.
 

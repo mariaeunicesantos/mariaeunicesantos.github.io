@@ -13,11 +13,7 @@ O que tenho pra falar para a senhora é doloroso e passei muito tempo pensando s
 
 Minha senhora, descobrir que aminha própria filha sanguínea e criada e educada por mim toda uma vida, hoje ela tem 24 anos, tem tido uma relação que eu não sei lhe dizer se é amorosa, ou de amásia, porque eu não acho que o amor é isso, com seu próprio pai adotivo, meu ex-marido, desde 11 anos de idade, tendo consumado por volta dos 15 anos. Sou espírita, e se eu não fosse, se eu não tivesse plena crença e fé no karma numa justiça que está além dos humanos, eu estaria morta. Mas parte de mim morreu. Não é assim que uma mãe sente quando um filho morre.?
 
-Tenho relembrado cada detalhe de nossa convivência anterior à separação: porque ela escolheu ficar com ele? porque ele a cumulava de presentes caríssimos? Ele ,que sempre foi muito avarento. Separei-me dele porque descobri que ele era um homem sexualmente pervertido, sem limites, mas até um ponto
-
-que a gente pode considerar comum: homossexualidade, relações com empregados domésticos, mas eu pensei que este valor pelo menos seria preservado. Ela teve muitas chances de me dizer, porque eu mesma perguntei com medo da falta de limites dele. Ela negou, chegou a brincar: ”Eu não gosto
-
-de velho”. Ela tinha um noivo, um menino bom, inocente, a quem ela traía freqüentemente. Um dia, eu lhe disse: “Minha filha, você vai sofrer muito por causa disso”. Ela me disse que estava mudando. Acreditei porque quando a gente ama acredita no melhor da outra pessoa.
+Tenho relembrado cada detalhe de nossa convivência anterior à separação: porque ela escolheu ficar com ele? porque ele a cumulava de presentes caríssimos? Ele ,que sempre foi muito avarento. Separei-me dele porque descobri que ele era um homem sexualmente pervertido, sem limites, mas até um ponto que a gente pode considerar comum: homossexualidade, relações com empregados domésticos, mas eu pensei que este valor pelo menos seria preservado. Ela teve muitas chances de me dizer, porque eu mesma perguntei com medo da falta de limites dele. Ela negou, chegou a brincar: ”Eu não gosto de velho”. Ela tinha um noivo, um menino bom, inocente, a quem ela traía freqüentemente. Um dia, eu lhe disse: “Minha filha, você vai sofrer muito por causa disso”. Ela me disse que estava mudando. Acreditei porque quando a gente ama acredita no melhor da outra pessoa.
 
 Penso que ela teve muita dor na consciência, porque ela tem uma dor de cabeça crônica. Levei-a a psiquiatras, médicos clínicos e psicanalistas. Todos achavam algo estranho e me falavam, mas quem poderia supor um horror desses? As pessoas têm vergonha até de pensar, evitamos julgar o outro dessa forma, não imaginamos tanta crueldade.
 Agora ela pensa numa forma de fazer com que ele a inclua  no testamento, depois que previram que ele não tem muito anos de vida. Ela vai tentar prejudicar o irmão.
@@ -32,9 +28,7 @@ Sempre fui muito transparente com meus filhos até para não adoecê-los com a h
 
 Vou definitivamente me afastar disso tudo e buscar luz pra entender. Uma outra médica iridologista me disse que eu seria como um monge budista que não tentou curar a chaga que tinha no ombro porque seria uma forma de proteger a sua aldeia.
 
-Acredito que eu tinha dividas kármicas com eles dois e é assim que eu tento entender o incompreensível, só espero que ela um dia tenha a coragem de me
-
-dizer a verdade, que eu veja em seu coração a sinceridade que eu nunca vi, para que ela possa se fazer um bem antes que seja tarde de mais. Porque está também previsto para ela conseqüências muito dolorosas que já começaram a acontecer.
+Acredito que eu tinha dividas kármicas com eles dois e é assim que eu tento entender o incompreensível, só espero que ela um dia tenha a coragem de me dizer a verdade, que eu veja em seu coração a sinceridade que eu nunca vi, para que ela possa se fazer um bem antes que seja tarde de mais. Porque está também previsto para ela conseqüências muito dolorosas que já começaram a acontecer.
 
 Não sou eu que tenho que perdoá-la Dra. Eunice, mais aquele que nos vigia, o grande Senhor do Tempo. Eu só posso ouvi-la e testemunhar a sua humildade e a minha própria.
 

@@ -28,9 +28,7 @@ Consuelo
 
 Cara Consuelo,
 
-De novo me vem à cabeça o filme de Almodóvar Fale com ela. É o tema que eu já abordei outras vezes o do “cuidado de si”, como denomina o grande pensador francês Michel foucault. Este pergunta: como uma sociedade cuida de si? Que dispositivos, que ferramentas, que valores,
-
-que atitudes uma determinada cultura “ensina” para que seus cidadãos estabeleçam metas, prioridades isto é, destinos?
+De novo me vem à cabeça o filme de Almodóvar Fale com ela. É o tema que eu já abordei outras vezes o do “cuidado de si”, como denomina o grande pensador francês Michel foucault. Este pergunta: como uma sociedade cuida de si? Que dispositivos, que ferramentas, que valores, que atitudes uma determinada cultura “ensina” para que seus cidadãos estabeleçam metas, prioridades isto é, destinos?
 
 Que tipo de homem, que tipo de prazer, que tipo de obrigação se torna aos olhos de uma determinada ordem mundial, aquilo que é legitimo, bacana....
 

@@ -13,9 +13,7 @@ Muitas pessoas têm me ligado para me dizer que não têm coragem de falar do se
 
 Eu compreendo e agradeço profundamente aos que me enviaram cartas ou e-mail, que ousaram afrontar essas ameaças. Sem eles a coluna já teria sido extinta, eu não poderia criar tantas histórias em quase três anos de trabalho!
 
-Por outro lado, desde o começo me pediam para que eu avisasse quando tivesse um grupo de estudo de psicanálise, mas durante dois
-
-anos me ocupei de um, com pessoas muito interessantes, e que me ensinaram muito, e eu não quis me dividir com mais uma tarefa desgastante do ensino.
+Por outro lado, desde o começo me pediam para que eu avisasse quando tivesse um grupo de estudo de psicanálise, mas durante dois anos me ocupei de um, com pessoas muito interessantes, e que me ensinaram muito, e eu não quis me dividir com mais uma tarefa desgastante do ensino.
 
 Gosto de fazer meu trabalho apaixonadamente, dedicando-me por inteira. Fazer mais um grupo mesmo que isso me rendesse mais, financeiramente, esvaziaria a encantadora aventura que eu estava tendo com o grupo original.
 

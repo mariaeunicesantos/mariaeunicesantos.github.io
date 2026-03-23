@@ -22,8 +22,6 @@ Resultado psicossomático: as mulheres de paises civilizados são da vez mais es
 
 Por que é quase humanamente impossível se ter filho de maneira responsável, arcando com todo trabalho de educação e amparo psíquico que uma criança precisa, e, ao mesmo tempo, se torna um profissional brilhante, requisitado, totalmente desenvolvido, sem que um dos cônjuges seja sacrificado.
 
-Mais do que nunca hoje. Para as mulheres se sentirem realizadas em todos os níveis, elas precisam de muita determinação e planejamento, e ainda um parceiro que compartilhe desse sonho, e assim possam alternar os sacrifícios de um e de outro para que ambos desabrochem como seres humanos. Sem tantas feridas. Sem esses excessos de
-
-mágoas. A nova geração, eu a vejo com muita capacidade de negociar, exatamente pela falta de rigidez dos novos paradigmas, tenho visto muitos casos bem-sucedidos.
+Mais do que nunca hoje. Para as mulheres se sentirem realizadas em todos os níveis, elas precisam de muita determinação e planejamento, e ainda um parceiro que compartilhe desse sonho, e assim possam alternar os sacrifícios de um e de outro para que ambos desabrochem como seres humanos. Sem tantas feridas. Sem esses excessos de mágoas. A nova geração, eu a vejo com muita capacidade de negociar, exatamente pela falta de rigidez dos novos paradigmas, tenho visto muitos casos bem-sucedidos.
 
 Você não tem que necessariamente repetir a deterioração da sua família. Um ser humano se torna realmente digno desse nome quando ultrapassa e reescreve as marcas da sua origem. O trabalho psicanalítico não é nada mais, nada menos que isso. Como alguém que viu e sofreu na pele o nascimento do fim, você, como toda essa nova geração, pode dar um passo a frente, fazer uma critica das suas contradições e construir novas possibilidades de ser feliz. E pode ser até que caiba aí também o décor de uma arvore de Natal...

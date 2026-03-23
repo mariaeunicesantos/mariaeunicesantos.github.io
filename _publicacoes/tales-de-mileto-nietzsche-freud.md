@@ -25,17 +25,17 @@ Tomo o texto freudiano. É isso o que eu faço. Não sei se o escuto. A leitura 
 
 Devolvo assim, a vocês, a vocês o que vocês, de certo modo, me trouxeram.
 
-                                                        Maria Eunice Santos
+Maria Eunice Santos
 
-                                                              Em junho 83.
+Em junho 83.
 
 TALES DE MILETO, NIETZSCHE, FREUD.
 
-                                                                                                              Maria Eunice Santos
+Maria Eunice Santos
 
 “A água e a origem e a matriz de todas as coisas”.
 
-                                      (Tales de Mileto)
+(Tales de Mileto)
 
 “E assim como, para o dramaturgo, palavra e verso são apenas o balbucio em uma língua estrangeira, para dizer nele o que viveu e contemplou e que diretamente só poderia anunciar pelos gestos e pela música, assim a expressão daquela intuição filosófica profunda pela dialética e a reflexão científica é, decreto por um lado, o único meio de anunciar o contemplado, mas um meio raquítico, no fundo uma transposição metafórica, totalmente infiel, em uma esfera e línguas diferentes. Assim contemplou Tales a unidade de tudo o que é: e quando quis comunicar, falou de água!“
     (Nietzsche, A Filosofia na Época Trágica dos Gregos).

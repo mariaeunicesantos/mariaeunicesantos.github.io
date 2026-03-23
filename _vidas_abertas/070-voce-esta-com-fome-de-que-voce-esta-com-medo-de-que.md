@@ -25,9 +25,7 @@ O impossível – e por isso trágico – é lidar com fantasmas, com o não dit
 
 Todos nós nascemos sob a égide de fantasias de sentimentos de nossos pais endereçados a nós. Indefensos, dependentes, inconscientes, estamos lá – envolvidos por uma atmosfera que nos afeta, mais que não podemos, não sabemos verbalizar.
 
-Os pais, no nosso nascimento, têm uma determinada posição nem sempre reconhecida por eles próprios sobre este evento fundamental: o nascimento, o nosso nascimento. Pode ser um momento auspicioso, e seremos adoráveis. Pode ser um péssimo momento e aí a construção do vínculo amoroso fica mais prejudicado. Imagine as conseqüências de uma mãe deprimida na hora do parto. Imagine o que uma mãe mão sente quando o pai do seu filho a abandona depois que obtém o que
-
-quer – o seu sucessor! Você pode estar Quíron, com este desejo de deixar sua mulher depois que obtiver o seu herdeiro selando mesmo destino para seu filho. O que ele representará no seu desejo: o homem que não desejaram que você fosse, ou o homossexual que você não consegue assumir?
+Os pais, no nosso nascimento, têm uma determinada posição nem sempre reconhecida por eles próprios sobre este evento fundamental: o nascimento, o nosso nascimento. Pode ser um momento auspicioso, e seremos adoráveis. Pode ser um péssimo momento e aí a construção do vínculo amoroso fica mais prejudicado. Imagine as conseqüências de uma mãe deprimida na hora do parto. Imagine o que uma mãe mão sente quando o pai do seu filho a abandona depois que obtém o que quer – o seu sucessor! Você pode estar Quíron, com este desejo de deixar sua mulher depois que obtiver o seu herdeiro selando mesmo destino para seu filho. O que ele representará no seu desejo: o homem que não desejaram que você fosse, ou o homossexual que você não consegue assumir?
 
 Alguém precisa pensar nos seus ferimentos, as conseqüências destes, para não ferir da mesma forma os que lhes são mais caros. Isto é a cura!
 
@@ -41,8 +39,6 @@ As sua mulheres estão herdando o ódio que você sentiu por sua mãe, por te lh
 
 É preciso voltar ao trabalho de cura, Quíron, e rever estas atitudes dos seus pais. Resgatar esse imaginário que foi tecido em volta de você.Posso lhe contar que uma ex-paciente minha, ao ter um filho homem, único neto da família, desejou que fosse mulher, porque todos os homens da sua vida (avô, pai, irmão) morreram muito cedo. Na sua fantasia completamente inconsciente, fazê-lo mulher os salvaria da fatalidade. O menino se tornou extremamente feminino. Os desejos dos pais essas curvas terríveis...
 
-Você já percorreu uma boa parte do caminho, não desista. Vá até o fim e tente curar está ferida, tente não ferir mais ninguém como você foi ferido. Você precisa vingar, como uma planta, não como um algoz. A feminilidade faz parte do homem, porque é um conceito feito de intensidades e assim pode ser integrado. Ele tem o seu próprio gozo, como o masculino, e ambos têm potências extraordinárias para a
-
-construção e destruição. Você ainda pode escolher, meu caro, um lado ou outro.
+Você já percorreu uma boa parte do caminho, não desista. Vá até o fim e tente curar está ferida, tente não ferir mais ninguém como você foi ferido. Você precisa vingar, como uma planta, não como um algoz. A feminilidade faz parte do homem, porque é um conceito feito de intensidades e assim pode ser integrado. Ele tem o seu próprio gozo, como o masculino, e ambos têm potências extraordinárias para a construção e destruição. Você ainda pode escolher, meu caro, um lado ou outro.
 
 Obrigada pelo extraordinário depoimento.

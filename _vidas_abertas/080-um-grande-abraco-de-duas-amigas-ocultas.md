@@ -28,9 +28,7 @@ Homens e mulheres
 
 Uma leitora questiona a qualidade das relações heterossexuais, depois de várias experiências difíceis.
 
-Querida Eunice. Não deveríamos logo, de uma vez, decretar a falência das relações amorosas? Estou falando da relação homem-mulher. Depois de alguns relacionamentos longos, três casamentos, traições – minhas e deles – joguei a toalha. Impossível! Terapias de casal, análises pessoais, tarô, terapias de vidas passadas, mapa astral, só fiz mudar de problema: o primeiro era passivo demais, o segundo sádico, o terceiro homossexual enrustido. Duas amigas minhas, que se escolheram como companheiras me garantem que a relação entre
-
-mulheres é menos custosa, existe melhor divisão de trabalho, mais igualdade etc. Não tenho nada contra, mas os homens continuam me atraindo, agora menos por que estou ficando cansada. É muito difícil. Gostaria de conversar com você sobre isso.
+Querida Eunice. Não deveríamos logo, de uma vez, decretar a falência das relações amorosas? Estou falando da relação homem-mulher. Depois de alguns relacionamentos longos, três casamentos, traições – minhas e deles – joguei a toalha. Impossível! Terapias de casal, análises pessoais, tarô, terapias de vidas passadas, mapa astral, só fiz mudar de problema: o primeiro era passivo demais, o segundo sádico, o terceiro homossexual enrustido. Duas amigas minhas, que se escolheram como companheiras me garantem que a relação entre mulheres é menos custosa, existe melhor divisão de trabalho, mais igualdade etc. Não tenho nada contra, mas os homens continuam me atraindo, agora menos por que estou ficando cansada. É muito difícil. Gostaria de conversar com você sobre isso.
 
 Consuelo
 
@@ -41,9 +39,7 @@ A consciência se dobra sobre si mesma e perscruta pecados, inventa-os na sua pr
 
 O tantrismo hindu com sua forma feminina de ascese sexual, antes mesmo do bramanismo, é recriado para o ocidente ver, por profetas indianos contemporâneos. Tenta-se eliminar os apegos edipianos, a forma fetichizada de amar do nosso ocidente, através de workshops e exercícios de um novo código sexual. A contracultura encontra aí uma arma. Os americanos transformam isso em terapia sexual, com seu imediatismo de sempre.
 
-Quanto mais eu avanço na minha pesquisa sobre a sexualidade para tempos remotos e culturas estrangeiras e exóticas, mais concluo que estamos no melhor momento da história. No momento de maior tolerância e busca da aceitação das diferenças. Você própria é um exemplo disso, Consuelo: você pode experimentar vários tipos de homens e cita suas amigas tríbades (era assim que os gregos chamavam
-
-as mulheres que escolhiam mulheres), que estão satisfeitas com suas escolhas. É claro que isso é possível entre porções de elite intelectual e social de nossa era. Ainda existem bolsões de obscurantismo e de horror, cujo rigor faz, imediatamente, proliferar a hipocrisia. Mas o debate existe, e graças a Deus não são as igrejas que o comandam.
+Quanto mais eu avanço na minha pesquisa sobre a sexualidade para tempos remotos e culturas estrangeiras e exóticas, mais concluo que estamos no melhor momento da história. No momento de maior tolerância e busca da aceitação das diferenças. Você própria é um exemplo disso, Consuelo: você pode experimentar vários tipos de homens e cita suas amigas tríbades (era assim que os gregos chamavam as mulheres que escolhiam mulheres), que estão satisfeitas com suas escolhas. É claro que isso é possível entre porções de elite intelectual e social de nossa era. Ainda existem bolsões de obscurantismo e de horror, cujo rigor faz, imediatamente, proliferar a hipocrisia. Mas o debate existe, e graças a Deus não são as igrejas que o comandam.
 
 No entanto, o problema se desloca da cultura para o individuo: eles tem que fazer suas escolhas e suas mudanças e suas nuanças. O outro existe não só como gênero, mas como vórtice de desejos. Desejos imponderáveis, cruzamento de instâncias, desconhecidas, faces insidiosas. Há muito o que reconhecer. As mulheres que hoje têm entre 45 e 50 e poucos anos, tiveram pais que constantemente a avisaram: “Cuidado com os homens, sejam independentes, trabalhem”. Mães que se queixaram da traição e da dependência. Mas o casamento não deixou de ser um objetivo. Só que foi colocado sob suspeita.
 
