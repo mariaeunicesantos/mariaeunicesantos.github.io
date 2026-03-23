@@ -1,0 +1,54 @@
+---
+title: "Porque, como Kafka nos convocou: \"Nossa salvação é a morte, mas não está.”."
+autor: "Maria Eunice Santos"
+numero: 55
+resumo: "Réveillon em Machu Picchu"
+---
+
+Até breve
+Réveillon em Machu Picchu
+ HYPERLINK "mailto:"
+Ao trocar as badaladas festas de Réveillon da capital por uma passagem de ano tranqüila na região do Vale de São Francesa, leitora diz que se sentiu muito mais renovada espiritualmente.
+
+Prezada Eunice
+Cheguei de viagem há pouco tempo. Fui ao Vale do São Francisco, não muito longe, com dois primos e duas amigas, uma delas namorada de um deles. Já tínhamos viajado antes para lugares bem mais distantes internacionais, mas o que eu mais gostei foi conhecer o povo da região, e a comida e o rio magnífico. Freqüentamos lugares simples e todas as pessoas foram de uma simpatia, que não era treinada, não se tratava de marketing. Descobri novas faces de meus primos que moram em Minas, que eu não esperava. As próprias amigas foram redescobertas e tudo fluiu maravilhosamente. Conhecemos um casal recém casado que vem à Bahia passar o carnaval, e eu fiquei muito comovida com a felicidade deles dois, e de não ver nenhum traço de ciúme em nenhum dos dois, porque estavam seguros do seu amor.
+Fizemos um Réveillon à beira do rio e fizemos uma fogueira e oramos. Não somos religiosos praticantes, mas deu vontade. Três pessoas do lugar ficaram olhando e nós os chamamos para participar da roda de oração. Me senti irmanada e tranqüila, sem medo do mundo. E não precisei pagar caro por roupa e festas caras.  Claro que eu vou um dia por uma roupa cara e ir pra uma festa chique, não virei hippie, simplesmente descobri um outro lado das coisas.
+Queria só comentar isso com você, e te desejar feliz Ano-novo.
+
+Um abraço de Rosana
+Cara Rosana:
+Sinto-me obrigada a lhe confessar, que eu também tive uma experiência de viagem extraordinariamente boa. A primeira coisa boa é que ela foi decidida em um dia e meio, com direito a vacina contra a febre amarela e tudo, porque iríamos para Machu Picchu no Peru. Eu e uma amiga mais próxima, e duas conhecidas simpáticas. A viagem transformou a relação das quatro e se estabeleceu uma cumplicidade sincera, sem pieguices.
+
+O fato de ter sido Machu Picchu foi o minimamente importante. Poderia ter sido México ou Egito, ou lagos Andinos. Não tenho espírito de Shyrley Maclaine, para criar asceses de ar rarefeito. Nem gosto de ficar invocando ancestrais dos outros. Deixem os espíritos quietos que eles precisam evoluir sossegados. Nem desesperada de não poder esticar mais o rosto, eu vou tentar a alternativa de esticar o espírito.
+A ampliação de nossa visão é pequena, e passo a passo insights maravilhoso e repentinos passam como chuva tropical.
+O que você relata está mais próximo do que eu acredito. Uma combinação feliz de pessoas no momento certo, no lugar certo. No seu caso haviam membros da família consangüínea, mas vocês ampliaram para uma família maior, em tornos de uma fogueirinha, orando um simples e conhecido pai-nosso e ave-maria, incluindo gente desconhecida. Você também não está se prometendo redenção. E isso é no mínimo sincero.
+Em São Paulo ficamos hospedadas na casa de uma jovem senhora executiva muito bem - sucedida, com seu tríplex decorado com cristais e símbolos tribais e totêmicos de toda sorte. Tudo bonito e previsível, uma casa-cor mística que Shyrley Mclaine iria adorar. Usava há dez anos a ahiuasca (um chá alucinógeno produzido na Amazônia, usado pelos índios e seringueiros, que induz a várias experiências, desde a disenteria e vômito, até insights de toda ordem, religiosos, psicológicos, visão de vidas passadas e etc). A revista Super-Interessante fez uma reportagem de capa muito boa sobre a substância.
+Ela sonhou tomar o chá em Machu Picchu, para se irmanar com seus ancestrais Incas, mas logo criticou a forma de atuar do Santo Daime (o de Lucélia Santos) e da União do Vegetal (grupos que usam o mesmo chá, mas com conceitos e organização diferentes) salientando que seu grupo era xamânico, portanto, mais elevado, e que não era religioso.
+Não tenho a menor paciência para a obtusidade dos religiosos que se negam como tal e que fogem da religação com o outro, considerando próximo apenas o que pertence ao próprio gueto. A história das religiões é uma história de guerra, obscurantismo e de assassinato simbólico ou real daqueles que são diferentes. É uma história freqüente de estupidez e de medo. Medo da morte, medo do outro lado, medo da própria consciência moral, pavor de não se salvar, busca dessa salvação a qualquer custo. O meu grupo é melhor, portanto, eu, que pertenço a ele, também sou melhor que você. Exercício de covardia e exclusão. Na ciência, é a mesma história, mas a briga pelo poder é clara e ninguém quer virar santo através de um mestre ascencionado. Apenas adorado, ele próprio. O egoísmo é visível e não é negado. A hipocrisia é o grande mal da civilização e aquilo que a torna burra e torpe. É preciso ler Nietzsche e não se esconder de si e do seu próprio devir.
+
+É preciso ler também Thomas de Quincey - Confissões de um comedor de ópio. A forma como o uso do láudano é descrita em seus efeitos de lucidez, percuciência e insight nos dá vontade de correr para a Turquia e ter a tal da experiência mística que ele relata. Mas o que é preciso mesmo é ter coragem de tirar a própria máscara. O problema é que a máscara é tão colada que a maioria das pessoas nem sabe que a usa. E pensar. E pensar o próprio pensamento. Por isso que existe psicoterapia e psicanálise: para dessintonizar o ego e seus clichês.
+Não é um trabalho fácil, nem para o terapeuta, que já passou pelo seu fogo, nem para o paciente, que tem que explodir a pele que recobre a sua angústia. E explodi-la diante do outro: tão igual tão dessemelhante...
+Para além dos "enta"
+Leitora questiona a renúncia pela vida de muitas mulheres a partir dos 40 anos.
+Querida Eunice,
+Esqueci os óculos (característica física marcante dos "enta" - está necessidade de óculos para ler), estou escrevendo está carta na sala de espera do meu médico. (Com isso é preciso conviver, até que aquela cirurgia possa dar um jeito). Pois é,vi Suzana Vieira aos 62 anos dizendo-se uma mulher "sensual" por que tem o "fogo da vida".
+Por que as mulheres depois dos enta (início do processo aos quarenta) começam a renunciar à vida? Beleza? Muitas são como os vinhos, ficam até melhores do que na juventude. E as vivências, segurança, realização profissional e pessoal, nada disso conta? Claro que surgem novos desafios, terapia hormonal, sim ou. não, como vai o casamento e a vida sexual? Enfim... É um tema sobre o qual tenho pensado. Mas parece que os homens (com medo das "mulheres fálicas") estão entrando também nessa paranóia da maturidade negativa.
+Espero sua resposta rápida.
+Adoro ler você
+Beijos
+Sílvia
+
+Cara Sílvia,
+Um batalhão enorme de mulheres que entraram pelos "enta" estão fazendo este tipo de questão a si mesmas, tanto é que as capas de revistas estampam as quase sexagenárias Lya Luft, Marília Gabriela ou Suzana Vieira, para atrair clientela ou leitores. É claro que as revistas estão atentas a está fatia de mercado. Mas devo lhe adiantar que não é só as mulheres que a idade constrange, aos homens também. Mas deixemos que uma outra carta (talvez de um homem), suscite está questão.
+O cultivo da idéia de juventude, beleza física, corpo malhado da geração de yuppies dos anos 80 começou a ser criticado nos anos que os sucederam e aprendemos até a concordar que havia uma ditadura imposta pela mídia, com ninfetas desfilando peles impecáveis e viço que só aos 12 anos podem ter. Não tem pancake que possa imitar algo assim, nem laser, nem cirurgia plástica.
+A beleza desses pequenos modelos era diretamente relacionada à sua intocabilidade pelo tempo. O adulto tem um olhar triste, me dizia uma pequena criança. A tristeza do pedaço arrancado pelo tempo: das desilusões, das perdas, das expectativas que não se concluíram.
+A juventude sempre foi um valor desde o começo dos tempos e a velhice temida, a deterioração do corpo sempre ocultada. Lembre-se dos banhos de leite de cabra de Cleópatra, a maquiagem, as vestes. Mas está não era só uma mulher bela, mas uma governante, uma estrategista. Tinha inteligência.
+O valor imposto pela cultura americana de beleza, simplesmente colocou em oposição beleza e inteligência. Mas o que a gente vê é que a beleza sem o recurso do espírito se torna insípida e, às vezes (a depender do nível de estupidez), repugnante.
+Repugnante evidentemente para quem é também um espírito cultivado, porque para um homem ou mulher muito limitados. A limitação de uma mulher bela pode até ser muito confortável, não oferece nenhum risco, não?
+Por outro lado, mulheres fálicas, cuja inteligência é manejada para castrar o homem, são de dar medo mesmo. E é uma questão de sobrevivência que eles fujam delas. Mas já se diz que quem nunca comeu mel quando come se lambuza. É um ato de delicadeza não se demonstrar demais o que se sabe, numa conversação normal, porque está se torna uma disputa, um ato de exibicionismo. Perde-se a graça do humor, que é o veículo mais certeiro da crítica, porque está se vê e ri de si mesmo.
+Você, Sílvia, começa sua carta rindo de você, e se incluindo, com a estória dos óculos. Eu acho que está é a forma mais radical de se
+
+demonstrar o quanto se é capaz de pensar, e a mais delicada, porque não se ostenta. Não estou falando de risos e dentes à mostra, deixem isso para as misses. Estou falando de uma causticidade que se perdoa e que faz uma aliança com o outro.
+Bem, minha cara, o que estas novas "coroas" colocam é que elas estão reinando em cima de outros valores e estão quebrando tabus de todas as ordens. Tabus veiculados por outras mulheres, pelos filhos, pelos maridos que impuseram - e tentam impor ainda - o principado de um deserto. O deserto de mulheres esquecidas, inutilizadas pela emancipação dos filhos (viveram a vida toda para isso), pela troca que fizeram os maridos por mulheres mais novas, pela vigilância invejosa de outras mulheres e de mães que querem ver perpetuadas na outra o seu próprio abandono.
+Aterrorizadas, elas se esmeram em submissões e sacrifícios para serem amadas. Sem nenhum outro saber de sedução, se tornam servis. Engordam ou secam, perdem o útero, esquecem o orgasmo, baixam os olhos diante do belo salto de Brad Pitt (em Tróia), para não ferir a suscetibilidade de marido, filhos, mãe, filha. Fingem tão bem que não desejam mais, que acabam não desejando mais.
+E sem o desejo - sem esse escândalo que constitui a vida -, o corpo morre, o pensamento morre, a vida morre. Ótimo que você adore está coluna, porque eu adoro isso!

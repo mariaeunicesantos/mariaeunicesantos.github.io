@@ -1,0 +1,1094 @@
+/* ============================================
+   Estilo Principal — Maria Eunice Santos
+   Psicanalista | Salvador, Bahia
+   ============================================ */
+
+/* --- Variáveis --- */
+:root {
+  --cor-primaria: #2B5B5E;
+  --cor-primaria-escura: #1E4244;
+  --cor-primaria-clara: #3A7A7E;
+  --cor-destaque: #C9A96E;
+  --cor-destaque-clara: #D4BA88;
+  --cor-fundo: #FAFAF7;
+  --cor-fundo-secao: #F0ECE6;
+  --cor-texto: #2D2D2D;
+  --cor-texto-suave: #5A5A5A;
+  --cor-texto-claro: #8A8A8A;
+  --cor-borda: #E0DCD4;
+  --cor-branco: #FFFFFF;
+  --cor-whatsapp: #25D366;
+  --cor-whatsapp-escura: #1DA851;
+
+  --fonte-titulo: 'Playfair Display', Georgia, 'Times New Roman', serif;
+  --fonte-corpo: 'Source Sans 3', 'Segoe UI', Roboto, sans-serif;
+
+  --largura-maxima: 1200px;
+  --largura-texto: 750px;
+  --espacamento: 1.5rem;
+  --raio-borda: 8px;
+
+  --sombra-suave: 0 2px 8px rgba(0, 0, 0, 0.06);
+  --sombra-media: 0 4px 16px rgba(0, 0, 0, 0.1);
+  --sombra-elevada: 0 8px 32px rgba(0, 0, 0, 0.12);
+
+  --transicao: 0.3s ease;
+}
+
+/* --- Reset e Base --- */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+body {
+  font-family: var(--fonte-corpo);
+  color: var(--cor-texto);
+  background-color: var(--cor-fundo);
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+a {
+  color: var(--cor-primaria);
+  text-decoration: none;
+  transition: color var(--transicao);
+}
+
+a:hover {
+  color: var(--cor-destaque);
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--fonte-titulo);
+  color: var(--cor-primaria-escura);
+  line-height: 1.3;
+}
+
+h1 { font-size: 2.5rem; font-weight: 700; }
+h2 { font-size: 1.875rem; font-weight: 600; }
+h3 { font-size: 1.375rem; font-weight: 600; }
+h4 { font-size: 1.125rem; font-weight: 600; }
+
+.container {
+  max-width: var(--largura-maxima);
+  margin: 0 auto;
+  padding: 0 var(--espacamento);
+}
+
+/* --- Cabeçalho --- */
+.cabecalho-site {
+  background: var(--cor-branco);
+  border-bottom: 1px solid var(--cor-borda);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: var(--sombra-suave);
+}
+
+.cabecalho-site .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 72px;
+}
+
+.logo-link {
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+}
+
+.logo-nome {
+  font-family: var(--fonte-titulo);
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--cor-primaria-escura);
+  line-height: 1.2;
+}
+
+.logo-titulo {
+  font-family: var(--fonte-corpo);
+  font-size: 0.8rem;
+  color: var(--cor-destaque);
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.navegacao-principal ul {
+  display: flex;
+  list-style: none;
+  gap: 0.25rem;
+  align-items: center;
+}
+
+.navegacao-principal a {
+  display: block;
+  padding: 0.5rem 0.875rem;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: var(--cor-texto-suave);
+  border-radius: var(--raio-borda);
+  transition: all var(--transicao);
+}
+
+.navegacao-principal a:hover,
+.navegacao-principal a.ativo {
+  color: var(--cor-primaria);
+  background: rgba(43, 91, 94, 0.06);
+}
+
+.botao-nav-contato {
+  background: var(--cor-primaria) !important;
+  color: var(--cor-branco) !important;
+  padding: 0.5rem 1.25rem !important;
+  border-radius: 50px !important;
+  font-weight: 600 !important;
+}
+
+.botao-nav-contato:hover {
+  background: var(--cor-primaria-escura) !important;
+  color: var(--cor-branco) !important;
+}
+
+/* Menu hambúrguer */
+.menu-hamburguer {
+  display: none;
+  flex-direction: column;
+  gap: 5px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 8px;
+}
+
+.menu-hamburguer span {
+  display: block;
+  width: 24px;
+  height: 2px;
+  background: var(--cor-primaria-escura);
+  transition: all var(--transicao);
+  border-radius: 2px;
+}
+
+.menu-hamburguer.ativo span:nth-child(1) {
+  transform: rotate(45deg) translate(5px, 5px);
+}
+
+.menu-hamburguer.ativo span:nth-child(2) {
+  opacity: 0;
+}
+
+.menu-hamburguer.ativo span:nth-child(3) {
+  transform: rotate(-45deg) translate(5px, -5px);
+}
+
+/* --- Seção Hero (Página Inicial) --- */
+.heroi {
+  background: linear-gradient(135deg, var(--cor-primaria-escura) 0%, var(--cor-primaria) 50%, var(--cor-primaria-clara) 100%);
+  color: var(--cor-branco);
+  padding: 5rem 0;
+  position: relative;
+  overflow: hidden;
+  overflow-x: clip;
+}
+
+.heroi::before {
+  content: '';
+  position: absolute;
+  top: -50%;
+  right: -20%;
+  width: 600px;
+  height: 600px;
+  border-radius: 50%;
+  background: rgba(201, 169, 110, 0.08);
+  pointer-events: none;
+}
+
+.heroi * {
+  max-width: 100%;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+.heroi .container {
+  display: flex;
+  align-items: center;
+  gap: 4rem;
+  position: relative;
+  z-index: 1;
+}
+
+.heroi-texto {
+  flex: 1;
+  min-width: 0;
+}
+
+.heroi-rotulo {
+  display: inline-block;
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--cor-destaque-clara);
+  margin-bottom: 1rem;
+}
+
+.heroi-titulo {
+  font-size: 3.25rem;
+  color: var(--cor-branco);
+  margin-bottom: 0.75rem;
+  line-height: 1.15;
+}
+
+.heroi-subtitulo {
+  font-family: var(--fonte-titulo);
+  font-size: 1.375rem;
+  font-weight: 400;
+  font-style: italic;
+  color: rgba(255, 255, 255, 0.85);
+  margin-bottom: 1.5rem;
+  line-height: 1.5;
+}
+
+.heroi-descricao {
+  font-size: 1.1rem;
+  color: rgba(255, 255, 255, 0.8);
+  margin-bottom: 2rem;
+  max-width: 520px;
+  line-height: 1.7;
+}
+
+.heroi-foto {
+  flex-shrink: 0;
+  width: 320px;
+  height: 400px;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: var(--sombra-elevada);
+  border: 4px solid rgba(255, 255, 255, 0.15);
+}
+
+.heroi-foto img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Placeholder para foto */
+.heroi-foto-placeholder {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(145deg, rgba(201, 169, 110, 0.3), rgba(201, 169, 110, 0.1));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--fonte-titulo);
+  font-size: 4rem;
+  color: rgba(255, 255, 255, 0.25);
+}
+
+/* --- Botões --- */
+.botao-whatsapp {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.625rem;
+  background: var(--cor-whatsapp);
+  color: var(--cor-branco);
+  padding: 1rem 2rem;
+  border-radius: 50px;
+  font-size: 1.1rem;
+  font-weight: 700;
+  text-decoration: none;
+  transition: all var(--transicao);
+  box-shadow: 0 4px 15px rgba(37, 211, 102, 0.3);
+}
+
+.botao-whatsapp:hover {
+  background: var(--cor-whatsapp-escura);
+  color: var(--cor-branco);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(37, 211, 102, 0.4);
+}
+
+.botao-whatsapp-inline {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: var(--cor-whatsapp);
+  color: var(--cor-branco);
+  padding: 0.75rem 1.5rem;
+  border-radius: 50px;
+  font-size: 1rem;
+  font-weight: 600;
+  transition: all var(--transicao);
+}
+
+.botao-whatsapp-inline:hover {
+  background: var(--cor-whatsapp-escura);
+  color: var(--cor-branco);
+  transform: translateY(-1px);
+}
+
+.botao-secundario {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  border: 2px solid rgba(255, 255, 255, 0.4);
+  color: var(--cor-branco);
+  padding: 0.875rem 1.75rem;
+  border-radius: 50px;
+  font-size: 1rem;
+  font-weight: 600;
+  transition: all var(--transicao);
+}
+
+.botao-secundario:hover {
+  border-color: var(--cor-branco);
+  background: rgba(255, 255, 255, 0.1);
+  color: var(--cor-branco);
+}
+
+.heroi-botoes {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+/* --- Seções --- */
+.secao {
+  padding: 5rem 0;
+}
+
+.secao-clara {
+  background: var(--cor-fundo-secao);
+}
+
+.secao-titulo {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.secao-subtitulo {
+  text-align: center;
+  color: var(--cor-texto-suave);
+  font-size: 1.1rem;
+  max-width: 600px;
+  margin: 0 auto 3rem;
+}
+
+/* Linha decorativa abaixo dos títulos */
+.secao-titulo::after {
+  content: '';
+  display: block;
+  width: 60px;
+  height: 3px;
+  background: var(--cor-destaque);
+  margin: 0.75rem auto 0;
+  border-radius: 2px;
+}
+
+/* --- Cards de Credenciais --- */
+.credenciais-grade {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+}
+
+.credencial-card {
+  background: var(--cor-branco);
+  padding: 2rem;
+  border-radius: var(--raio-borda);
+  box-shadow: var(--sombra-suave);
+  border-top: 3px solid var(--cor-destaque);
+  transition: transform var(--transicao), box-shadow var(--transicao);
+}
+
+.credencial-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--sombra-media);
+}
+
+.credencial-icone {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.credencial-card h3 {
+  margin-bottom: 0.5rem;
+  font-size: 1.125rem;
+}
+
+.credencial-card p {
+  color: var(--cor-texto-suave);
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+/* --- Lista de Publicações --- */
+.publicacoes-lista {
+  display: grid;
+  gap: 1.25rem;
+  max-width: var(--largura-maxima);
+}
+
+.publicacao-item {
+  background: var(--cor-branco);
+  padding: 1.75rem 2rem;
+  border-radius: var(--raio-borda);
+  box-shadow: var(--sombra-suave);
+  border-left: 4px solid var(--cor-destaque);
+  transition: all var(--transicao);
+}
+
+.publicacao-item:hover {
+  box-shadow: var(--sombra-media);
+  transform: translateX(4px);
+}
+
+.publicacao-item h3 {
+  margin-bottom: 0.5rem;
+}
+
+.publicacao-item h3 a {
+  color: var(--cor-primaria-escura);
+}
+
+.publicacao-item h3 a:hover {
+  color: var(--cor-destaque);
+}
+
+.publicacao-resumo {
+  color: var(--cor-texto-suave);
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.publicacao-tag {
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--cor-destaque);
+  background: rgba(201, 169, 110, 0.12);
+  padding: 0.2rem 0.6rem;
+  border-radius: 4px;
+  margin-bottom: 0.5rem;
+}
+
+/* --- Vidas Abertas --- */
+.vidas-abertas-intro {
+  text-align: center;
+  max-width: var(--largura-texto);
+  margin: 0 auto 2.5rem;
+}
+
+.busca-container {
+  max-width: 500px;
+  margin: 0 auto 2.5rem;
+  position: relative;
+}
+
+.busca-campo {
+  width: 100%;
+  padding: 0.875rem 1.25rem 0.875rem 3rem;
+  font-family: var(--fonte-corpo);
+  font-size: 1rem;
+  border: 2px solid var(--cor-borda);
+  border-radius: 50px;
+  background: var(--cor-branco);
+  color: var(--cor-texto);
+  transition: border-color var(--transicao);
+  outline: none;
+}
+
+.busca-campo:focus {
+  border-color: var(--cor-primaria);
+}
+
+.busca-campo::placeholder {
+  color: var(--cor-texto-claro);
+}
+
+.busca-icone {
+  position: absolute;
+  left: 1.125rem;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--cor-texto-claro);
+}
+
+.vidas-abertas-grade {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 1.25rem;
+}
+
+.vidas-abertas-card {
+  background: var(--cor-branco);
+  padding: 1.5rem;
+  border-radius: var(--raio-borda);
+  box-shadow: var(--sombra-suave);
+  transition: all var(--transicao);
+  border-bottom: 3px solid transparent;
+}
+
+.vidas-abertas-card:hover {
+  box-shadow: var(--sombra-media);
+  border-bottom-color: var(--cor-destaque);
+}
+
+.vidas-abertas-card h3 {
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+}
+
+.vidas-abertas-card h3 a {
+  color: var(--cor-primaria-escura);
+}
+
+.vidas-abertas-card h3 a:hover {
+  color: var(--cor-destaque);
+}
+
+.vidas-abertas-card p {
+  color: var(--cor-texto-suave);
+  font-size: 0.9rem;
+  line-height: 1.6;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.vidas-abertas-contador {
+  text-align: center;
+  color: var(--cor-texto-claro);
+  font-size: 0.9rem;
+  margin-top: 1rem;
+}
+
+/* Paginação */
+.paginacao {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-top: 2.5rem;
+  flex-wrap: wrap;
+}
+
+.paginacao a,
+.paginacao span {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 40px;
+  height: 40px;
+  padding: 0 0.75rem;
+  border-radius: var(--raio-borda);
+  font-size: 0.9rem;
+  font-weight: 500;
+  transition: all var(--transicao);
+}
+
+.paginacao a {
+  background: var(--cor-branco);
+  color: var(--cor-texto-suave);
+  border: 1px solid var(--cor-borda);
+}
+
+.paginacao a:hover {
+  background: var(--cor-primaria);
+  color: var(--cor-branco);
+  border-color: var(--cor-primaria);
+}
+
+.paginacao .paginacao-atual {
+  background: var(--cor-primaria);
+  color: var(--cor-branco);
+  border: 1px solid var(--cor-primaria);
+}
+
+/* --- Artigo (leitura) --- */
+.artigo {
+  max-width: var(--largura-texto);
+  margin: 0 auto;
+  padding: 3rem var(--espacamento);
+}
+
+.artigo-cabecalho {
+  margin-bottom: 2.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--cor-borda);
+}
+
+.artigo-cabecalho h1 {
+  font-size: 2.25rem;
+  margin-top: 0.75rem;
+}
+
+.artigo-subtitulo {
+  font-family: var(--fonte-titulo);
+  font-style: italic;
+  color: var(--cor-texto-suave);
+  font-size: 1.15rem;
+  margin-top: 0.5rem;
+}
+
+.artigo-autor {
+  color: var(--cor-destaque);
+  font-weight: 600;
+  margin-top: 0.75rem;
+}
+
+.artigo-corpo {
+  font-size: 1.05rem;
+  line-height: 1.8;
+}
+
+.artigo-corpo p {
+  margin-bottom: 1.25rem;
+}
+
+.artigo-corpo blockquote {
+  border-left: 3px solid var(--cor-destaque);
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+  background: var(--cor-fundo-secao);
+  border-radius: 0 var(--raio-borda) var(--raio-borda) 0;
+  font-style: italic;
+  color: var(--cor-texto-suave);
+}
+
+/* Migalhas de pão (breadcrumbs) */
+.migalhas {
+  font-size: 0.85rem;
+  color: var(--cor-texto-claro);
+}
+
+.migalhas a {
+  color: var(--cor-primaria);
+}
+
+.migalhas-separador {
+  margin: 0 0.375rem;
+  color: var(--cor-borda);
+}
+
+/* CTA no rodapé do artigo */
+.artigo-rodape {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--cor-borda);
+}
+
+.artigo-cta {
+  background: var(--cor-fundo-secao);
+  padding: 2rem;
+  border-radius: var(--raio-borda);
+  text-align: center;
+}
+
+.artigo-cta p {
+  color: var(--cor-texto-suave);
+  margin-bottom: 1rem;
+}
+
+/* --- Página (genérica) --- */
+.pagina {
+  max-width: var(--largura-texto);
+  margin: 0 auto;
+  padding: 3rem var(--espacamento);
+}
+
+.pagina-cabecalho {
+  margin-bottom: 2.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--cor-borda);
+}
+
+.pagina-cabecalho h1::after {
+  content: '';
+  display: block;
+  width: 60px;
+  height: 3px;
+  background: var(--cor-destaque);
+  margin-top: 0.75rem;
+  border-radius: 2px;
+}
+
+.pagina-subtitulo {
+  font-family: var(--fonte-titulo);
+  font-style: italic;
+  color: var(--cor-texto-suave);
+  font-size: 1.15rem;
+  margin-top: 0.75rem;
+}
+
+.pagina-corpo {
+  font-size: 1.05rem;
+  line-height: 1.8;
+}
+
+.pagina-corpo p {
+  margin-bottom: 1.25rem;
+}
+
+/* --- Página Sobre --- */
+.sobre-destaque {
+  background: var(--cor-fundo-secao);
+  padding: 2rem;
+  border-radius: var(--raio-borda);
+  border-left: 4px solid var(--cor-destaque);
+  margin-bottom: 2rem;
+  font-size: 1.1rem;
+  font-style: italic;
+  color: var(--cor-texto-suave);
+}
+
+.sobre-secao {
+  margin-bottom: 2.5rem;
+}
+
+.sobre-secao h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.sobre-secao h2::after {
+  content: '';
+  display: block;
+  width: 40px;
+  height: 2px;
+  background: var(--cor-destaque);
+  margin-top: 0.5rem;
+}
+
+/* --- Página Contato --- */
+.contato-grade {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3rem;
+  align-items: start;
+}
+
+.contato-info {
+  display: grid;
+  gap: 1.5rem;
+}
+
+.contato-card {
+  background: var(--cor-branco);
+  padding: 1.5rem;
+  border-radius: var(--raio-borda);
+  box-shadow: var(--sombra-suave);
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+}
+
+.contato-card-icone {
+  flex-shrink: 0;
+  width: 48px;
+  height: 48px;
+  background: rgba(43, 91, 94, 0.08);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--cor-primaria);
+}
+
+.contato-card h3 {
+  font-size: 1rem;
+  margin-bottom: 0.25rem;
+}
+
+.contato-card p,
+.contato-card a {
+  font-size: 0.95rem;
+  color: var(--cor-texto-suave);
+}
+
+.contato-mapa {
+  border-radius: var(--raio-borda);
+  overflow: hidden;
+  box-shadow: var(--sombra-suave);
+  height: 100%;
+  min-height: 400px;
+}
+
+.contato-mapa iframe {
+  width: 100%;
+  height: 100%;
+  min-height: 400px;
+  border: 0;
+}
+
+/* --- Botão Flutuante WhatsApp --- */
+.whatsapp-flutuante {
+  position: fixed;
+  bottom: 1.5rem;
+  right: 1.5rem;
+  width: 60px;
+  height: 60px;
+  background: var(--cor-whatsapp);
+  color: var(--cor-branco);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 15px rgba(37, 211, 102, 0.4);
+  z-index: 1000;
+  transition: all var(--transicao);
+}
+
+.whatsapp-flutuante:hover {
+  background: var(--cor-whatsapp-escura);
+  color: var(--cor-branco);
+  transform: scale(1.08);
+  box-shadow: 0 6px 20px rgba(37, 211, 102, 0.5);
+}
+
+/* --- Rodapé --- */
+.rodape-site {
+  background: var(--cor-primaria-escura);
+  color: rgba(255, 255, 255, 0.8);
+  padding: 3.5rem 0 0;
+}
+
+.rodape-grade {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 2.5rem;
+  padding-bottom: 2.5rem;
+}
+
+.rodape-coluna h3 {
+  color: var(--cor-branco);
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+}
+
+.rodape-coluna p {
+  font-size: 0.9rem;
+  line-height: 1.7;
+}
+
+.rodape-local {
+  color: var(--cor-destaque-clara);
+  font-weight: 600;
+}
+
+.rodape-links {
+  list-style: none;
+}
+
+.rodape-links li {
+  margin-bottom: 0.5rem;
+}
+
+.rodape-links a {
+  color: rgba(255, 255, 255, 0.75);
+  font-size: 0.9rem;
+  transition: color var(--transicao);
+}
+
+.rodape-links a:hover {
+  color: var(--cor-destaque-clara);
+}
+
+.rodape-inferior {
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  padding: 1.25rem 0;
+  text-align: center;
+  font-size: 0.85rem;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+/* --- Icones inline (SVG) --- */
+.icone-whatsapp {
+  flex-shrink: 0;
+}
+
+/* --- Página cheia (sem max-width de .pagina) --- */
+.pagina-larga {
+  max-width: var(--largura-maxima);
+  margin: 0 auto;
+  padding: 3rem var(--espacamento);
+}
+
+/* --- Responsivo --- */
+@media (max-width: 900px) {
+  .heroi .container {
+    flex-direction: column-reverse;
+    text-align: center;
+  }
+
+  .heroi-texto {
+    max-width: 100%;
+  }
+
+  .heroi-titulo {
+    font-size: 2.5rem;
+  }
+
+  .heroi-foto {
+    width: 200px;
+    height: 250px;
+  }
+
+  .heroi-descricao {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .heroi-botoes {
+    justify-content: center;
+  }
+
+  .contato-grade {
+    grid-template-columns: 1fr;
+  }
+
+  .credenciais-grade {
+    grid-template-columns: 1fr;
+  }
+
+  .vidas-abertas-grade {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 768px) {
+  .menu-hamburguer {
+    display: flex;
+  }
+
+  .navegacao-principal {
+    display: none;
+    position: absolute;
+    top: 72px;
+    left: 0;
+    right: 0;
+    background: var(--cor-branco);
+    border-bottom: 1px solid var(--cor-borda);
+    box-shadow: var(--sombra-media);
+    padding: 1rem;
+  }
+
+  .navegacao-principal.aberto {
+    display: block;
+  }
+
+  .navegacao-principal ul {
+    flex-direction: column;
+    gap: 0.25rem;
+  }
+
+  .navegacao-principal a {
+    padding: 0.75rem 1rem;
+  }
+
+  h1 { font-size: 2rem; }
+  h2 { font-size: 1.5rem; }
+
+  .heroi {
+    padding: 3rem 0;
+  }
+
+  .heroi::before {
+    display: none;
+  }
+
+  .heroi .container {
+    gap: 2rem;
+    padding: 0 1.5rem;
+  }
+
+  .heroi-titulo {
+    font-size: 1.75rem;
+  }
+
+  .heroi-subtitulo {
+    font-size: 1.1rem;
+  }
+
+  .heroi-descricao {
+    font-size: 0.95rem;
+  }
+
+  .secao {
+    padding: 3rem 0;
+  }
+
+  .artigo-cabecalho h1 {
+    font-size: 1.75rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .heroi {
+    padding: 2.5rem 0;
+  }
+
+  .heroi-titulo {
+    font-size: 1.75rem;
+    word-wrap: break-word;
+  }
+
+  .heroi-subtitulo {
+    font-size: 1rem;
+  }
+
+  .heroi-descricao {
+    font-size: 0.95rem;
+  }
+
+  .heroi-foto {
+    width: 160px;
+    height: 200px;
+  }
+
+  .botao-whatsapp {
+    width: 100%;
+    justify-content: center;
+    padding: 0.875rem 1.5rem;
+    font-size: 1rem;
+  }
+
+  .botao-secundario {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .secao-titulo {
+    font-size: 1.5rem;
+  }
+
+  .pagina-cabecalho h1 {
+    font-size: 1.75rem;
+  }
+
+  .vidas-abertas-intro {
+    text-align: left;
+  }
+}

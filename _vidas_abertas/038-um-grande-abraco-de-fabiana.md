@@ -1,0 +1,108 @@
+---
+title: "Um Grande abraço de Fabiana"
+autor: "Maria Eunice Santos"
+numero: 38
+resumo: "P.S.: Estou com meu namorado aqui, não é por falta de companhia."
+---
+
+P.S.: Estou com meu namorado aqui, não é por falta de companhia.
+
+Cara Fabiana. A solidão nunca é por falta de companhia, mas sim por falta de alguém com quem compartilhar as afinidades, as besteiras, os risos, os pequenos sofrimentos, as decepções, os segredinhos, os pecadinhos, as idiossincrasias, as manias. Alguém a prova de suscetibilidades, que pode nos encher de vez em quando, mas que a gente não deixa de admirar, de querer bem. Alguém de quem a gente pode se afastar sem o risco de perder.
+Tem amigo para tudo, cada um na sua função. Os intelectuais, os atletas, os festeiros, os casados, os solteiros, os gays, as socialites, os homofóbicos, os religiosos, os fashionistas, os caretas, etc. Os dramáticos, os que não estão nem aí... Em suma, a amizade povoa o nosso mundo e o preenche de informações e de intensidades. Uma família que a gente elegeu, em consciência, e que nos completa em algumas destas dimensões.
+Estas novas fraternidades estão, hoje em dia, mais importantes do que nunca, porque preenchem o lugar da família destroçada de nossa era com seus valores tradicionais e auto referentes. Estas novas relações fazem territórios antes opostos e conflituosos, se tocarem, se fundirem, se harmonizarem.
+Nessas relações é possível uma suave ou total erotização. O irmãozinho não é interditado. Porque ele não faz parte nem do sangue nem da herança. Este pontos de paixão e de guerra estão ausentes e assim os cruzamentos podem se multiplicar.
+Gosto dessa idéia, mas é preciso abdicar um pouco da outra, cara Fabiana. É preciso realmente se abrir para o mundo e para a diferença, as inúmeras diferenças. Se abrir para vê-las, aprender com elas, se equivocar com elas, se fundir, se distanciar. Mas, é preciso abertura para o novo, tendo que usar velhas balizas, até que estas próprias novas relações nos dêem outras. No começo, cautela, tateamento, ou avanço impensado para um posterior recuo. Táticas diversas de confrontação. Levaremos nossos espelhinhos e surpresos, descobrimos que nós é que somos os índios!
+Fronteiras, muralhas, pontes, abismos.
+Às vezes dança, às vezes claudica, às vezes deita-se.
+As insígnias sociais e de origem, seus cacoetes e má consciência, sua pérfida mania de exclusão, sabotam este projeto de relações do futuro.
+
+Não somente nós fazemos parte do lado justo da vida. Aquele outro, aquele outro que nos contempla e nos mede, pensa da mesma forma - que ele é o justo. Acima dessa linha reta imaginária (quase assíntota), uma intercessão de verdade - de uma meia verdade inteira.
+Tente outra vez... Vale a pena? Só vale minha amiga...
+Sexo não segura casamento
+Um homem não entende como sua mulher, a quem ele dava todo, foi embora porque ele não a escutava.
+Dona Eunice. Explique-me uma coisa: o que é que as mulheres querem? Fui casado durante 14 anos com uma mulher que eu pensava que seria para sempre. Há três meses ela me pediu separação, alegando que eu não a escutava. Imagine a bobagem: eu não a escutava! E ela? Será que ela diria? Ela disse que tinha me avisado, mas eu simplesmente acho que as queixas são formas normais de ajustes dentro de uma relação, e não um aviso prévio! Eu sou um homem super-atarefado e posso lhe dizer sem nenhuma modéstia muito bem-sucedido numa profissão que exige dedicação e esforço diário! Por isso, ela teve o seu BMW, eu ainda ia para o supermercado, consciente de que precisava ajudá-la com as crianças. Ela trabalhava também, mas sem os recursos que eu dispunha, nem por isso eu deixei de ser solidário. Meus amigos dizem que eu sou tolo. Cheguei à conclusão que sexo não segura casamento. Eu sou do time de Woody Allen: sexo tem que ser sujo! Desculpe-me a indiscrição, mas de manhã eu fazia sozinho por que ela não agüentava! E ela jogou tudo isso fora... Vou deixar que os advogados cuidem dela... Gosto de mulheres belas e elegantes. Meus amigos solteiros (alguns) gostam de garotas de programa, mas eu não. As moças, todas hoje em dia, fazem de tudo na primeira noite. O chato é que elas telefonam depois!
+Pois é, dona Eunice, mesmo com qualidade total o meu casamento acabou assim. O que sua sapiência pode me dizer sobre isso?
+Um abraço de Vando
+Engraçado... é a segunda vez que um homem me escreve me tratando por "Dona" - uma forma como se trata uma dona de casa, e não uma especialista. A outra carta era de um homem que falava da traição que um "amigo" sofreu e eu me lembrei da primeira entrevista do mafioso com o psicanalista em Máfia no divã (lembram-se?) que também dizia que a consulta era para um "amigo". Claro que um chefe mafioso jamais poderia fazê-lo, é claro!
+Essa é uma forma simples de não se comprometer, enquanto paciente (etimologicamente, o que sofre a paixão) e também de me destituir de um lugar institucional de saber. Tranqüilize-se, meu amigo, eu não serei sua "doutora"!
+
+Respondendo sua pergunta, diretamente. Uma mulher contaria seus segredos para o seu marido? Respondo tout-court: provavelmente. A maioria das mulheres colocam seus homens no lugar de deuses, príncipes, salvadores, padres, pais, e psicanalistas. Sem perguntar antes se eles estão dispostos a isso. Ou se são capazes. Ou se isso não é uma agressão enorme, também, a eles.
+"Sei que você fez os seus castelos e sonhou ser salva do dragão... sozinha no silêncio do seu quarto, procura a espada do seu salvador... Desilusão meu bem...". Os homens não escutam. Já falei aqui de três analistas homens que eu conheci surdos de um ouvido, um deles dos dois. Este último teve que parar de atender e seguiu carreira acadêmica. Não deixei de pensar irônica e tristemente: eles não agüentaram ouvir tantas mulheres... Nem eles!
+Imaginem os homens comuns: sem treinamento, sem sensibilização, sem instrumento, apavorados com o que pode ser revelado de um continente desconhecido e lamacento que está debaixo dos seus pés! Percorrer isso tudo, sem guia, sem bússola, sem mapa, sem saber o dialeto do lugar. Completamente ameaçados na sua já indefensável masculinidade.
+Homens deviam fazer análise, pelo menos para aprenderem a falar de si e aprenderem a escutar. As mulheres, para aprenderem os limites neste campo dos homens! As mulheres gostam deste terreno pantanoso.
+Adoram uma D.R (discussão de relação). Não que saibam fazê-lo, não que sejam mais justas. A maioria dessas DRs. são equivocadas, pretensiosas e chantagistas. Advoga-se em causa própria.
+Mas, meu caro, o sexo sujo - sempre - não é uma boa idéia. Nada que é "sempre" é uma boa idéia pelo menos para as mulheres. Contardo Calligaris conta que uma paciente sua reclamou da mesmice do marido, que ele nunca lhe dava flores. O marido passou a mandar flores todo dia, o esperto! Ela reclamou do sexo, e foi à mesma solução.
+Provavelmente você esqueceu de perguntar se sua mulher gostava de ter todo dia um sexo sujo...
+Devo lhe dizer que o sexo para a mulher começa com as palavras, com a delicadeza e com as surpresas. Imagino sua impaciência escutando isso... Nessas surpresas podem caber uma sujeira ou outra, como uma forma de se aventurar em pequenos precipícios, inventar novos territórios, leis e vigências. Sair do lugar, do mesmo. Deixar que você tire sua inocência, sua última resistência, mas que tenha domínio e cuidado. E que a olhe, e que leia e escute os sinais.
+Quando você se jacta, que de manhã repete a dose sozinho, orgulhoso da sua capacidade, eu penso na causa do seu desastre: à noite, com ela, você também não estava sozinho, com suas fantasias, com seus pensamentos? O trágico é que você mostra com isso realmente uma enorme ingenuidade (como seus amigos sinalizaram) junto a sua
+
+onipotência. Como um menino que descobre a ereção e sonha que pode voar... Que pode voar sozinho...
+A mulher precisa ser admirada - tanto quanto o homem - para que o sexo funcione bem. Você com seu BMW, sua carreira, suas ereções diárias parece que prescindiu dessa admiração.
+O pedido de separação jogou por terra esses valores e sua mulher pediu uma coisa tão simples que você nem acreditava: que fosse escutada!
+Como Almodóvar, no seu mais lindo filme, eu aconselho, simplesmente: Fale com ela!
+Tenho tendência a destruir os meus amores
+ HYPERLINK "mailto:"
+Para não sofrer uma rejeição, uma mulher prefere aniquilar suas relações.
+Eunice, eu te escrevo porque preciso de ajuda: tem um quê de mulher-bomba na minha personalidade. E eu tenho consciência disso. Tenho assistido, ao longo dos anos, meus relacionamentos serem destruídos por mim mesma. É assim: quando tudo parece estar bem, quando o meu parceiro começa a me dar provas. de sua paixão, eu começo a mostrar meu lado pior. Eu tenho que admitir que tenho uma necessidade enorme de testar esses homens como se quisesse saber qual deles é capaz de me amar, apesar de lhes mostrar meus defeitos; defeitos que, aliás, me envergonho de ter, sem controle e esperança de um dia poder dominá-los. Depois de alguns casamentos desfeitos com homens bons e ruins, estou vivendo outra experiência com um homem mais velho e muito compreensivo. Já comecei o processo de destruição e estou desesperada, porque não sei como desarmar-me. Nem gostaria de perdê-lo, porque ele é maravilhoso (conversei com ele, ele quer me ajudar, mas não sabe como). O que é isso, é neura?
+Lorena
+Cara Lorena. Não sei de que geração você é, mas logo que li sua carta lembrei-me de uma tira de Henfil - o fradinho mau-caráter, que às vezes sorrateiramente, olhando a mãe de soslaio,quebrava um jarro, e depois de receber o castigo, com as lágrimas ainda salpicando o rosto, não conseguia esconder de todo seu riso de contentamento. Meu filho Pedro, de 12 anos, comentando o câncer de uma parente nossa, cujo marido sempre frio, distante e silencioso agora se desdobra solidário: "Ela tentou conseguir na morte o carinho que não conseguiu em vida..." Estremeci: como ele está aprendendo cedo, meu Deus!
+Por que precisamos de tantas provas de amor, e porque às vezes pagamos tão caro por isso? Por que esse reservatório de amor, como diz Freud, o ego, está sempre tão vazio, tão sedento?
+
+Que falta fundamental é essa que nos faz suplicar aquilo que depois tentamos destruir?
+Freud fala de um tipo de caráter chamado "arruinado pelo êxito": são pessoas que não suportam a vitória, o sucesso. E quando o alcançam tentam destruí-lo. Ele próprio (imagine!) se coloca como um exemplar suave deste tipo.
+Como sempre, resíduos infantis... Alguém na casa é que era para ser bem-amada, ou a mãe ou a irmã. Será que alguém disse, profetizando - "Você não será feliz com homem nenhum!" O inconsciente tem mania de obedecer ordens infelizes.
+Ou como Bernard Shaw dizia: "Não confio num clube que me aceita como sócio!"
+Você pensa: será que ele me conhece mesmo para me incluir na sua vida?
+Quanto de "verdade" sobre mim ele suportaria ver?
+Com medo de ser vista, mostra-se o pior. Prova final, prova real, prova cabal.
+Há outro tipo que Freud estuda: o "criminoso por sentimento de culpa", culpas inconscientes fazem o sujeito cometer o crime para sofrer o castigo. É como se o erro real desse um continente para um erro virtual que ameaça invadir tudo. O castigo o limita e vincula. O medo não fica tão solto.
+Na verdade, o que acontece é que temos medo de ser felizes. Houve tantos avisos sobre o caráter dos homens ("não confie!"), tantas mulheres foram enganadas... Por que eu vou ser agraciada com um amor verdadeiro? Logo eu?
+Certa vez eu li num livro bem-humorado sobre a iniciação ao judaísmo (mas está frase é muito séria): "Os judeus não cuidam porque amam, mas amam porque cuidam". Isto quer dizer que existe um primado do fazer sobre o sentir. Uma responsabilidade sobre o ato. Nada de histórias como "matei porque a amava"... Por favor! Amava mesmo a quem, a sua própria imagem? O amor não é um sentimento celestial que pousa sobre nossas cabeças e nos toma... Cupido, guarde suas flechas. O amor é uma construção. Através dele conhecemos e construímos a nossa melhor e pior face.
+Borges dizia que todo ato de amor verdadeiro é recíproco. Isto quer dizer não espera retorno, pagamento, portanto não dúvida, não cinde. Ele vem inteiro, grávido da sua própria experiência. O filho, o seu rebento, com seu rosto lindo ou torpe, figura mista do encanto ou da discórdia, ridículo ou sublime, vem nos lembrar o que nós somos, o que escolhemos, e o que não podia deixar de ter sido.
+
+Mas pode ser também, Lorena, que você possa dar armas a alguém que também tem medo de amar - e os homens são mestres nisso. E que ele use isso de vez em quando para provocar o seu medo, insinuando a sua confirmação. Dando-lhe deixas, para que você desconfie e se torne insegura. Quem foi que disse que as mulheres são misteriosas?
+A previsibilidade do homem está contida nas suas camisas de xadrez e nas suas perversões, mas por outro lado, na vida, são exímios jogadores (dependendo da malícia de cada um), podendo estabelecer estratégias que estão ao largo da nossa compreensão feminina, sempre cupabilizada, confessional e impulsiva.
+Pare e pense.
+Meus filhos vão embora!
+ HYPERLINK "mailto:"
+Uma mulher lamenta o deserto que se torna a sua vida com a partida dos rebentos e sua permanência em um casamento acomodado
+Querida Eunice. Eu não imaginava que eu não estava preparada para a partida dos meus filhos: tenho dois, que vão se mudar para o Sul (a menina de 23 anos) e para fora do país, o menino de 27 anos. Ela é administradora de empresa e conseguiu um excelente lugar para trabalhar numa multinacional americana que tem uma sucursal em São Paulo. O rapaz é médico e vai para os Estados Unidos (ele fez a residência em São Paulo) para continuar suas pesquisas em oncologia. Todos dois foram alunos brilhantes e eu tenho orgulho disso. E sempre os incentivei a fazerem sua vida com sucesso e sem medo de se arriscar. Eu e o pai tivemos sempre este objetivo. Tenho 30 anos de casamento, vivemos coisas muito boas e também decepções, como a vida é mesmo. Não acho que foi o casamento mais feliz deste mundo. Por conta disso, dediquei-me inteiramente aos meus filhos, prejudicando mesmo minha carreira, que não era realmente uma paixão, mas uma ocupação. Diante da saída dos meus filhos, me inscrevi num cursos de pós-graduação e pretendo investir em mim mesma antes que seja tarde demais.
+O que eu não entendo é essa dor. Estou num deserto terrível, Eunice. Tenho chorado muito às escondidas, para que meus filhos não se sintam cobrados por mim para ficarem. Eu só os deixaria conflituados, e já basta o que eles estão enfrentando de mudança.
+Meu casamento é uma acomodação, tenho medo do que vai vir: meu marido na televisão e no computador e o silêncio....
+Diga-me alguma coisa, por favor.
+Eliana
+
+Cara Eliana. Este é o famoso momento de crise. A palavra crise vem do grego e significa discernimento, análise. É a hora de discernir, de separar o joio do trigo, a oportunidade de se ver aquilo que se é.
+A separação das pessoas queridas é vivida como uma pequena morte.
+Momentaneamente não conseguimos ver os progressos que advirão disso, nem a promessa do retorno. Tornamos-nos como uma criança que vê a mãe sair pela primeira vez e se desespera, sentindo que a perdeu para sempre.
+Só muito, muito mais tarde, entenderemos os versos do grande poeta americano Ezra Pound: "O que amas de verdade te pertence, o que.amas de verdade não o perderás". Quando compreendemos isso, também superamos o nosso medo e a nossa dor.
+Por uma lado é a dor da separação, o dilaceramento do apego, mas, por outro lado, o que também faz sofrer é aquilo que estas ausências desmascaram, põem a nu: o sentido da sua vida. Você agora estará sozinha diante do que restou - o seu marido, o seu casamento, o seu projeto de trabalho, a sua idade, o seu tempo.
+As crianças, com seu amor espontâneo, as suas realizações, tornavam você automaticamente saciada. Algo foi cumprido, algo foi gestado e quando você viu disse como Deus, quando criava cada parte do universo: "E isso é bom". Satisfeitos, você e Deus, com suas "criações".
+ E este é um prazer enorme - ver que nossos filhos estão realizando o melhor de si, apesar das dificuldades, das suas limitações e dos nossos erros.
+Sentimos-nos perdoados, nossas existências justificadas.
+Ter filhos exige um grande investimento. Desde a gravidez até este momento da partida, é algo que exige o máximo da nossa abnegação, em todos os sentidos, desde o material até o afetivo. Entretanto, este momento da separação nos faz perguntar: fomos realmente tão abnegados ou secretamente investimos para ter algum retorno pessoal? O que a presença e a sua ocupação ocultaram?
+Nós, seres humanos, não gostamos nada dessa hora da verdade - muitos de nós nos desesperamos com aquilo que nos deparamos.
+Mas já vi pais fazerem o possível para "expulsar" seus filhos de casa, porque entre si - o casal - se dão bem. Como se os filhos fossem um excesso, numa relação que já é completa em si. E vi também o ciúme dos filhos e uma espécie de procrastinação da saída da casa dos pais, como se dissessem: "Vou ficar só para contrariar...". Ou: "Não saio enquanto eles não me derem seu amor".
+
+Mas vejo já em você uma consciência dos sinais e um desejo de transformação. Aliás, tenho visto isto em todos as cartas que eu recebo: por assim dizer, um começo da cura, que não tem forma de se iniciar senão pela humildade...
+Aproveite a crise, Eliana, e faça também a sua viagem...
+Para outros portos.
+O valor do reconhecimento
+ HYPERLINK "mailto:"
+Cara Eunice. Fiquei superemocionada em ver minha história ali, estampada no jornal! Muito, muito obrigada pelas suas duras, mas muito enriquecedoras palavras... Estou deixando, como você mesmo falou, elas adormecerem em mim...
+Quem sabe quando vier à alvorada eu possa acordar com as respostas e outros sentimentos... Que busca, que falta, que dores, que excessos? O que está repetição preenche, o que elimina? Deserto ou fogo? Talvez um naufrágio, um afogamento sem fim... Estarei buscando nas minhas profundezas as respostas, os caminhos...
+Mais uma vez obrigado pelas luzes. Fica com Deus. Um grande abraço,
+Adriana
+Este agradecimento veio da leitora cuja carta possibilitou a coluna com o título Amante interminável, de 15 dias atrás. Este agradecimento me tocou. Alguns outros leitores (nem todos) agradeceram, via e-mail ou telefone. Alguns outros leitores me telefonaram, apesar de nunca me terem escrito, para me agradecer pelo que eu respondi a outrem e que ecoou neles. Às vezes meus próprios pacientes trazem para suas análises questões suscitadas pela leitura semanal. Recebo pedidos para os textos serem reproduzidos em jornais específicos no interior da Bahia. Amigos e colegas me lêem, reproduzem, enviam a outros amigos pela internet. Algumas camareiras do apart-hotel onde moro me surpreendem, lendo-me.
+E isso é muito bom. Um grande e conspícuo território me reconhece. A camareira ao grande doutor. O sentimento que tenho neste momento é o de que eu estou cumprindo o meu papel, à pequena parte que me cabe neste mundo.
+Está é a necessidade de todo o ser humano: ter certeza de que tem um lugar, de que esse lugar faz diferença, e ao mesmo tempo o vincula, expatriando-o por alguns momentos da sua solidão.
+
+Certa vez fui apresentada ao público pelo Dr. Alceu Rech, diretor dos Correios e Telégrafos, com palavras de autêntico, sincero e generoso entusiasmo, quando fiz a palestra-magna para o Programa de Valorização da Vida. As suas palavras me tocaram tanto, que antes mesmo de falar sobre o que eu tinha preparado, eu me deparei com um elemento que eu até então não tinha me dado conta da sua importância: o reconhecimento vindo do outro.
+Como o ar que a gente respira, nós não nos damos conta de como ele é fundamental. Um escritor não existe sem o seu leitor - ele é o que lhe autentica e lhe performa. Da mesma forma, o analista com seu paciente. Da mesma forma, o amante e a amada. Não se trata de um elogio que vem de qualquer pessoa, em qualquer lugar. Existe um lugar e uma singularidade que confrontado com a minha, funda nela uma alteridade. Digamos assim, que o outro me desenha, me dá uma feição, me revela. Revelar como no sentido da fotografia: o negativo torna-se positivo, as formas só aparecem no contraste. O outro me revela: porque foi atento, porque foi tocado, porque cedeu.
+E nesse sacrifício de amor, ele me doou um dos sentidos da minha vida. Um passaporte, um bilhete, uma passagem, uma franquia.
+O comentário, o riso, e a crítica dos meus filhos (dos três) me emociona. Vejo-os distintos de mim, e tão próximos. Às vezes temem por mim, porque me julgam temerária, mas não são covardes, ficam ao lado, com igual expectativa, e entretanto tão diferentes. Escutar os filhos com exigência, rigor e paixão: quantas vezes terei que dizer o quanto isso é importante?
+Escutar o amigo, o aluno, o amado.
+Roberto Corrêa, o meu orientador, professor da UFRJ, é assim: duas horas e meia de interurbano que ele faz para me reconhecer, para me sustentar, para que eu sustente a minha tese. Suas palavras ecoam em mim durante semanas. Ele diz o mesmo das minhas palavras, e assim, torno-me loquaz, porque me sinto esperada.
+Marcel Mauss, no seu ensaio sobre o dom, fala da obrigação de dar, de receber e retribuir. Está obrigação do dom - que é uma festa - é o que faz viver o vínculo social. Toda vez que ele é interrompido, um vínculo é abortado.
+Dar, receber e retribuir. Mas Borges, o grande poeta argentino que morreu cego, mas que ganhou os olhos da menina Maria Kodama, avisa: todo dom de amor é recíproco, desde o começo.
+Não use, por favor, uma balança mesquinha. Obrigada Adriana pelo agradecimento, eu precisava ouvir isso.

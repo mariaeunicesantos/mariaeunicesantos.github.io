@@ -1,0 +1,48 @@
+# Configuração do Site — Maria Eunice Santos
+title: "Maria Eunice Santos — Psicanalista"
+description: "Psicanalista e Psicóloga Clínica em Salvador, Bahia. Formada pela UFBA com formação em Paris. Atendimento clínico, cursos e seminários."
+url: "https://mariaeunicesantos.github.io"
+baseurl: ""
+lang: "pt-BR"
+
+# Coleções
+collections:
+  publicacoes:
+    output: true
+    permalink: /publicacoes/:slug/
+  vidas_abertas:
+    output: true
+    permalink: /vidas-abertas/:slug/
+  textos_franceses:
+    output: true
+    permalink: /textos-franceses/:slug/
+
+# Padrões de frontmatter
+defaults:
+  - scope:
+      path: ""
+      type: "publicacoes"
+    values:
+      layout: "artigo"
+      categoria: "publicacao"
+  - scope:
+      path: ""
+      type: "vidas_abertas"
+    values:
+      layout: "artigo"
+      categoria: "vidas-abertas"
+  - scope:
+      path: ""
+      type: "textos_franceses"
+    values:
+      layout: "artigo"
+      categoria: "texto-frances"
+
+# Build
+markdown: kramdown
+permalink: pretty
+exclude:
+  - scripts/
+  - CLAUDE.md
+  - README.md
+  - mae_content/

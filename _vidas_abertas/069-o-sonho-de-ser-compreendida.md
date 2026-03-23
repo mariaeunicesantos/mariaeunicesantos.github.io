@@ -1,0 +1,38 @@
+---
+title: "O sonho de ser compreendida"
+autor: "Maria Eunice Santos"
+numero: 69
+resumo: "Leitora pede ajuda para lidar com a inveja alheia, principalmente por parte da família."
+---
+
+Leitora pede ajuda para lidar com a inveja alheia, principalmente por parte da família.
+
+Cara Eunice,
+
+Sempre leio a sua coluna e fiquei muito interessada pela abordagem de um problema que é semelhante ao meu,. Tenho 49 anos, sou separada e tenho dois filhos. Também observei os mesmos problemas da Fênix. Fui uma menina classificada como muito inteligente na minha infância, a ponto de despertar a inveja dentro da minha própria família, duras lições de competição e hostilidade. Meus pais desfrutavam de boa situação financeira, dando-me oportunidade de estudar e assim o fiz. Realmente, fui uma aluna brilhante, mas tal sucesso nas letras era o oposto de minha vida afetiva. O meu maior sonho sempre foi ser compreendida amada sem restrição, sabe, aquele tipo de amor incondicional, mas nunca o desfrutei.
+
+Tenho uma personalidade que minha família sempre rejeitou, porque me considerava fechada, coisa que realmente sou. A inveja tanto invenenou minha infância e adolescência, vinda de meus parentes que aos 37 anos de idade me peguei lendo A cabala da inveja, de Nilton Bonder, que por sinal considero o marco da minha alto-investigação. A partir daí li diversos livros, fiz análise, terapia bioenergética, e me separei. Tudo em busca de conviver com pessoas que realmente me quisessem pelo que sou, não precisando que eu fizesse as vontade alheias ou lhes prestasse serviço. Bom, a partir de tal fato foi uma total reedição dos problemas da “Fênix”, me peguei achando não ser merecedora de tudo de bom que consegui. Então comecei a destruir. Até me disseram que havia feito trabalho para acabar comigo, macumba, sabe, e hoje sou uma pessoa muito irritada, digo que quero, sinto muita raiva de todos, cortei com relação com a família dos invejosos, coisa da qual não me arrependo, acho até que foi resultado da terapia. Com tudo, não quero ser uma pessoa amarga, quero ser feliz, pois, contrariamente à minha fama de calada, sou uma pessoa alegre, o mundo das pequenas coisas me alegra, sou capaz de ser feliz sentindo o vento, vendo o mar, gosto muito dos animais e de escrever, coisas simples, não preciso de muito em termos matérias para ser feliz e ter paz. É aquela história, Eunice, à qual, ninguém, neste mundo de pura matéria, acredita: não preciso de uma Mercedes do ano, nem mesmo de um carro para ser feliz, para que me preocupar com os ladrões, se posso alugar um carro e curti a praia na maior paz do mundo, sem me preocupar com o estacionamento? Já morei em casas excelentes, sei que não é um quatro quartos com piscina, quadra de tênis, teleférico e todo esse blábláblá que traz a realização, pelo menos para mim. O que mais quero, e nisso sou muito exigente, é o amor e a sinceridade das pessoas com as quais convivo, pois é isso que dou a elas, e não aceito negociar outra moeda, já sair de casamento porque não aceitei ser apenas parte de um séqüito adorador de uma.
+
+única pessoa (sabe essas famílias em que um é considerado melhor do que os outros?), quero um relacionamento em que todos sejam iguais, mesmos direitos e deveres, sabe? Serei muito exigente? Olha, entrei bem com essa história de abrir mão da minha maneira de ser para agradar os outros. Mas o fato é que vivi uma serie de experiências traumáticas em todas as áreas da minha vida, estou cansada de tudo isto, apesar de tudo ainda quero ter paz, e quem sabe até, ser feliz. Muito grata por ler-me.
+
+Diana, a caçadora.
+
+Cara Diana,
+
+Como nós analistas nunca deixamos de prestar a atenção nos detalhes, interessou-me pseudônimo da deusa romana que os gregos chamavam de Ártemis que você adotou: Diana, a caçadora. Existe um livro de Roger Woolger sobre as deusas e a correspondência com perfis femininos que valeria a pena você dá uma lida, dentro deste projeto de autoconhecimento que você está empreendendo. Um longo, dolorido e corajoso projeto.
+
+Você fala muito de inveja e de ser vitimada por ela. A inveja é um sentimento voraz e destrutivo onde alguém humilhado pela suposta superioridade do outro deseja tomar ou destruir aquilo que o outro ostenta e que lhe diminui.
+
+É um sentimento universal que os povos mais tradicionais temem muito. Na África, se um visinho elogia uma plantação (por exemplo) de alguém , este responde: “É está boazinha, mais em compensação meu gado foi roubado, a casa está caindo, eu estou meio fraco...” e por ai vai. Mostra-se uma miséria para não atrair desgraças. Algumas pessoas agem assim inconscientemente, uma espécie de modesta compulsória para afastar o mal-olhado.
+
+A inveja é temida, porque ela efetivamente, busca destruir, retirar da ordem da vida aquele que justamente que se admira. Porque este alguém que nós admiramos tem a qualidade ou os bem que nós gostaríamos de ter.O seu brilho amplia e mostra nossa sombra. A sua altura aprofunda o buraco em que nós estamos. O eu fausto, e a nossa pobreza. O invejoso é humilhado, a relação de Salieri e Mozart, apresentada no belo filme Amadeus, é neste campo, emblemática. Mais o invejoso, que não pode mostrar a sua inveja (porque ela o envergonha ainda mais) age de maneira sombria, indireta. Se puder, diminuirá o outro com maledicência, boicotes, furtos. O furto pode ser simbólico, como por exemplo alguém repetir algo interessante que você disse sem lhe citar. O plágio é mais comum do que se pensa, porque a citação implica honrar a fonte citada, e mostrar o verdadeiro dono do pensamento, submetendo-se a soberania. Imita-se e pronto.
+
+Mas poderíamos pensar porque as pessoas famosas, ricas e belas continuam intactas apesar de tantos dardos de inveja?
+
+Porque algumas caiem e se deixam ferir? Existe um texto de Freud que se chama Os que fracassam ao triunfar ou em espanhol os fracassados pelo êxito. Preste atenção no titulo, pois é auto explicativo. O que Freud descobre é que algumas pessoas tem culpa pelo próprio sucesso , porque de alguma forma esse sucesso pode ter esmagado um ente querido, pela própria comparação. Um pai, um irmão, uma mãe que ficarão pra traz. Alguém a quem devemos muito (ou que tenta nos mostrar que nós devemos) e que foi superada. Realizamos algo maior que eles, maior que sua expectativa, que a expectativa de um certo enquadre cultural, devemos certo demais para metas que foram tão menores que nós mesmo.Às vezes um irmão doente na família, um irmão que morreu anteriormente, um gêmeo, nos faz ter culpa pela própria sobrevivência.
+
+Mas às vezes (e é disso que Freud trata) temos culpa pela nossa arrogância e ambição – não aceitamos. Não aceitamos que fizemos parte de uma geração que precisa superar a anterior, sem necessariamente destruí-la.E a geração anterior precisa aceitar sua superação. Nos achamos grandiosos demais para fazer o “serviço sujo” das pequenas coisas.
+
+Produzimos autoboicotes, atrasos, abdicações, porque achamos que quisemos demais, ou porque acharam que queríamos demais. Paramos amedrontados diante da porta da lei e xingamos o seu guardião, parodiando grotescamente Kafka. Não aceitamos também os nossos limites, os limites impostos por nossas circunstâncias internas e externas. Distinguir o que nos impede é um trabalho terapêutico. É trabalho de análise.
+
+Diana, você se separou do seu marido e pelo que você fala desde sempre estava “separada do seu mundo.” Fechada, como você se descreve. As pequenas belezas do mundo no entanto lhe atrai. Esse reparo seu lembrou-me o filme Beleza Americana. Filme relatado em off por alguém que tinha morrido e que ali, além, vê a ternura , a dor, a inveja do seu próprio assassino. Que consegue enfim, se enternecer com sua própria vida passada.

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <meta name="description" content="{{ page.descricao | default: site.description }}">
+  <meta name="author" content="Maria Eunice Santos">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="{{ page.title }} | {{ site.title }}">
+  <meta property="og:description" content="{{ page.descricao | default: site.description }}">
+  <meta property="og:type" content="{% if page.categoria %}article{% else %}website{% endif %}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:locale" content="pt_BR">
+
+  <!-- Fontes -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Source+Sans+3:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+  <!-- Estilo -->
+  <link rel="stylesheet" href="{{ '/assets/css/estilo.css' | relative_url }}">
+
+  {% if page.usar_busca %}
+  <script src="{{ '/assets/js/busca.js' | relative_url }}" defer></script>
+  {% endif %}
+
+  <!-- Schema.org -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ProfessionalService",
+    "name": "Maria Eunice Santos — Psicanalista",
+    "description": "{{ site.description }}",
+    "url": "{{ site.url }}",
+    "telephone": "+557132470829",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Rua Humberto de Campos, 144, Sala 1104",
+      "addressLocality": "Salvador",
+      "addressRegion": "BA",
+      "postalCode": "40150-900",
+      "addressCountry": "BR"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "-13.0043",
+      "longitude": "-38.5228"
+    },
+    "priceRange": "$$",
+    "openingHours": "Mo-Fr 08:00-18:00",
+    "sameAs": [
+      "https://www.linkedin.com/in/maria-eunice-santos-429133a5/"
+    ]
+  }
+  </script>
+</head>
+<body>
+  {% include cabecalho.html %}
+
+  <main class="conteudo-principal">
+    {{ content }}
+  </main>
+
+  {% include rodape.html %}
+  {% include cta-whatsapp.html %}
+</body>
+</html>

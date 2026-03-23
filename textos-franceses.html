@@ -1,0 +1,34 @@
+---
+layout: base
+title: "Textos em Francês"
+descricao: "Textos acadêmicos de Maria Eunice Santos em francês — tese doutoral, correspondências e trabalhos apresentados em Paris."
+---
+
+<div class="pagina-larga">
+  <header class="pagina-cabecalho" style="max-width: var(--largura-texto);">
+    <h1>Textos em Francês</h1>
+    <p class="pagina-subtitulo">Textes académiques en français — Formation psychanalytique à Paris</p>
+  </header>
+
+  <div style="max-width: var(--largura-texto); margin-bottom: 2.5rem;">
+    <p>
+      A formação psicanalítica de Maria Eunice Santos em Paris gerou uma produção acadêmica significativa em língua francesa,
+      incluindo projetos de tese doutoral e correspondências com renomados psicanalistas franceses.
+      Estes textos testemunham o diálogo constante com a tradição psicanalítica francesa.
+    </p>
+  </div>
+
+  <div class="publicacoes-lista">
+    {% for texto in site.textos_franceses %}
+    <div class="publicacao-item">
+      <span class="publicacao-tag">{{ texto.tipo | default: "Texto Acadêmico" }}</span>
+      <h3><a href="{{ texto.url | relative_url }}">{{ texto.title }}</a></h3>
+      {% if texto.resumo %}
+      <p class="publicacao-resumo">{{ texto.resumo }}</p>
+      {% else %}
+      <p class="publicacao-resumo">{{ texto.content | strip_html | truncatewords: 40 }}</p>
+      {% endif %}
+    </div>
+    {% endfor %}
+  </div>
+</div>

@@ -1,0 +1,26 @@
+---
+layout: base
+title: "Publicações"
+descricao: "Ensaios, conferências e textos acadêmicos de Maria Eunice Santos sobre psicanálise, filosofia e cultura."
+---
+
+<div class="pagina-larga">
+  <header class="pagina-cabecalho" style="max-width: var(--largura-texto);">
+    <h1>Publicações</h1>
+    <p class="pagina-subtitulo">Ensaios, conferências e textos acadêmicos sobre psicanálise e suas interfaces</p>
+  </header>
+
+  <div class="publicacoes-lista">
+    {% for pub in site.publicacoes %}
+    <div class="publicacao-item">
+      <span class="publicacao-tag">{{ pub.tipo | default: "Ensaio" }}</span>
+      <h3><a href="{{ pub.url | relative_url }}">{{ pub.title }}</a></h3>
+      {% if pub.resumo %}
+      <p class="publicacao-resumo">{{ pub.resumo }}</p>
+      {% else %}
+      <p class="publicacao-resumo">{{ pub.content | strip_html | truncatewords: 40 }}</p>
+      {% endif %}
+    </div>
+    {% endfor %}
+  </div>
+</div>

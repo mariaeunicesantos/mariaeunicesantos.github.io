@@ -1,0 +1,105 @@
+---
+title: "Eu não sei o que sou nem o que quero"
+autor: "Maria Eunice Santos"
+numero: 91
+resumo: "Em dúvida sobre sua opção sexual, confessa que ainda não se encontrou como mulher."
+---
+
+Em dúvida sobre sua opção sexual, confessa que ainda não se encontrou como mulher.
+
+Querida Eunice. Leio sempre a sua coluna e gosto muito da forma que a senhora procura explicar os problemas que lhe são confiados. Apesar dos meus 40 anos me considero uma pessoa indefinida amorosa e sexualmente. Para ser sincera ainda não me encontrei como mulher. Fui casada durante 07 anos e nunca me sentir realizada ( não por falta de orgasmo, que eu os tinha através do sexo oral) mas no sentido de me sentir completa, acompanhada. Às vezes eu sinto que sou uma pessoa impar e por isso mesmo, condenada a solidão. Eu gosto de homem, mas só de vez em quando.
+
+Eu não sei conviver com um homem diariamente: ele se torna muito chato. Ele e qualquer pessoa que invada meu espaço. Eu sempre fui muito minha, independente mesmo. Atualmente sou amante de um homem dez anos mais novo que eu. Gosto muito dele, mas ao mesmo tempo que sofro com essa situação (ser a outra) não desejaria que ele fosse só meu. Tenho certeza que só está durando (dois anos) porque não existe a convivência diária. Eu tenho uma dificuldade imensa de me relacionar, pois não sei lidar direito nem com meus defeitos e nem com os do outro.
+
+Eu adoro carinho, beijo na boca, amassos mil, mas isso para mim não tem identidade sexual, ou seja, essa boca colada a minha, essas mãos me tocando, não quer dizer necessariamente que eu gosto porque são de um homem. De tudo no sexo o que eu menos aprecio é a penetração. Teoricamente eu me considero bissexual. A idéia de ser tocada por uma outra mulher me atrai e muito. Nunca nenhuma mulher demonstrou interesse por mim. De minha parte isso não ocorrerá nunca, pois além de ter medo de me expor, e depois de descobrir que essa não é a minha, eu nunca me interessei por uma mulher real (por enquanto só a idéia me excita). Acho que ficarei com essa dúvida para sempre.
+
+Baseada neste depoimento, dava para senhora tentar explicar a origem de tamanha indecisão?obrigada,
+
+N.M.
+
+Cara leitora. Vou repetir para você o provérbio do inferno do pastor protestante Blake: “Só se sabe o que é suficiente quando se faz mais do que o suficiente”. É estranho ouvir da boca de um pastor (mesmo que ele venha do séc. XVII) algo que performa uma ética do excesso, do trasbordamento. Como diria Sibony um grande pensador da matemática
+
+e psicanálise, com quem eu me encontrei a pouco em Paris, “é preciso permitir ao tempo que ele venha e tome nosso corpo um pedaço”.
+
+As experiências têm um preço. O tempo nos marca.  Se não for assim, nossa vida terá um funcionamento previsível e tedioso das repartições públicas. Comeremos cream crackers amolecidos em gavetas de auxiliares administrativos.
+
+Em vez de cicatrizes, a expansão da flacidez ou o enriquecimento da secura. Outro analista na França me fala de uma paciente que ele acabou de atender. “Ela fala da sua vida como se tivesse de fora”. Analista experiente, famoso, não sei por que ele se surpreende com isso. Essa é uma marca fundamental da nossa neurose cotidiana: a impossibilidade de se tornar real diante do seu devir, de conseguir visualizar o seu prazo, a sua perecibilidade, a sua morte. E então se dar conta que o nosso trabalho é viver, e que isso pode ser emocionante e bom.
+
+As pessoas protegem tanto sua imagem, que se tornam efígies, com a ilusão de pensar que efígies não morrem. Crispam-se numa função, numa definição, vinda de qualquer sitio ideológico.
+
+Num livro sobre a Cabala judaica eu leio que Abraão era um grande astrólogo,  e sabia que, pelo seu mapa, ele jamais ele teria filho. E ele o tem, já em sua idade provecta com Sarah, sua mulher bem velha. O menino se chama o Riso – Isaac Abraão riu da sua sina, e acreditou em Deus, se tornando um homem que cria o seu destino, se emancipando dos astros. Realizou um destino que estava além disso, e tornou-se homem.
+
+Quando você encara os ditames que vieram da sua origem, seja referente à sua raça, família, classe social, cultura, religião; quando você os identifica, decodifica e indaga, há uma possibilidade de você recriar o seu destino. Muitos pactos foram selados num momento de não consciência, muitos ficaram nas entrelinhas. A vida não foi para leitores desatentos e preguiçosos.
+
+Para os atentos e ativos, a criptografia se complica, porque às vezes Deus brinca de piorar o frio para que a gente possa inventar o nosso cobertor.
+
+Um médico me atende e no atendimento me fala do primeiro casamento que fracassou antes dos dois primeiros anos, lhe trazendo dois filhos com os quais não se relaciona, e do segundo casamento que já duram 20 anos, com dois filhos que ele mostra em duas grandes fotos no seu consultório. Parabenizo - o por esse casamento que parece estar dando certo e ele me responde: “ Que nada! É um saco estar casado há 20 anos com a mesma pessoa! Mas também não suporto ficar sozinho! Se a gente pudesse procurar alguém só quando precisa e depois... Eu gosto de pesquisar e minha vida é o consultório! Minha vida não tem jeito não!”.
+Pensei na solidão da esposa e dos filhos. Pensei de como ele atuava sem
+
+planejar a sua vida para puder reescrever o script. Se submetia, com toda a independência aparente.
+
+Jung, um psicólogo ex-discípulo de Freud, mandou construir uma torre para seu próprio retiro. Não muito longe de casa, mas suficientemente.
+
+Ele próprio percebeu a necessidade que têm os seres humanos, de se comunicarem e depois ficarem sozinhos. Para alguns (pensadores, artistas ou seres muito sensíveis ao contato com outro) está necessidade é fundamental mesma para a sobrevivência.
+
+O casamento como se concebe hoje é fruto da sociedade industrial e do advento da burguesia, que, com seu contingente de operários, precisava juntar os salários, para viverem juntos e manterem os filhos.
+
+Os aristocratas tinham seus castelos separados das mulheres, esposas ou amantes. As rainhas  faziam construir seus próprios retiros, as nobres amantes também. A idéia romântica de viver juntos para sempre, é uma forma ideológica de se recobrir a simples necessidade de juntar dinheiro para se poder ter mais poder de consumo. As pessoas terminam se consumindo. Claro que a exigência da posse, o medo da traição, o desejo de controle, a divisão moral “matriz e filial”, a possível desproteção social, os cuidados com a saúde, a falta de tempo tomada pela carga de trabalho, a necessidade de uma ração mínima de afeto, terminam fazendo com que especialmente no nosso mundo de classe média, a solução seja a convivência forçada. Toda a propaganda social mostra essa imagem doce de uma família reunida feliz num apartamento de dois quartos na Paralela. Essa se torna a forma “natural de viver”.
+
+Os novos aristocratas do capitalismo moram separados:há casos famosos – Woody Allen e Mia Farrow com sua dezenas de filhos, Sartre e Beauvoir, Candice Bergen Comi Malle (?) esses últimos além disso,moravam em países separados. Artistas, filósofos excêntricos, que tinham toda uma outra ética para sustentar o seu estilo pessoal e luxuoso de viver.
+
+A outra escolha, a sexual, tem seus impedimentos marcados pela mesma lógica do medo e do costume. Roberto Correia, um caro professor da UFRJ, confessa-me que não acredita em sexos como gêneros (tipo masculino, feminino, homo, bi), mas em força de atração. E eu penso
+que sustentar uma atração precisa de força, amiga! E ter a coragem de não fazê-la durar mais que o necessário. Esse caminho não é fácil e é preciso reconhecer os seus limites, e se, ainda, eles podem ser franqueados pela surpresa...
+
+Mas nada será negociado se você não fizer uma oferta,um investimento. De qualquer maneira você pagará por isso, cara N. M., talvez com essa dúvida infinita de como poderia ter sido se você tivesse feito de outra forma... E esse (im)passe é pessoal e intransferível.
+
+Estranho no ninho
+
+Um homem questiona o papel da homossexualidade na cultura que a condena
+
+Eunice querida. Quando um sujeito, aos quarenta anos, percebe que se comportou ao longo desse tempo todo em função de uma condenação básica da cultura (não gosto de falar em sociedade: os cupins, as abelhas, as galinhas, as ovelhas, dentre outros animais, também vivem em sociedade; mas não tem cultura), que está profundamente “programado” para condenar e atacar certos desejos e atitudes suas, enfim, como pode ele sair ou se desviar do foco desses programas da cultura (que estão nele, que agora são dele)? Mais, como pode ele ter desenvolvido mecanismos que o retirem da situação concreta e o leve a viver, por isso, num mundo virtual, imaterial, de fantasia, como dizem os psicólogos e psicanalistas? Como pode não confiar, também por isso, no mundo e nas pessoas? Não sei se me faço entender, mas, a idéia, na verdade, é muito mais provocar o seu pensamento do que receber de você, através de um simples diário
+popular, uma resposta a estas questões. E, para isso, uma confusão de palavras, às vezes, é o suficiente. Resumindo e ao mesmo tempo ampliando a questão: que
+lugar ocupa a homossexualidade numa organização subjetiva individual “normal”, quer dizer, em nada aparentemente diferente das outras? Que lugar essa questão ocupa na cultura, já que foi numa cultura que esse personagem nasceu e é nela que ele se forma? Agradeço.
+
+Franco filho
+
+Caro Franco Filho: Você provocou sim, muitos pensamentos em mim. E um amontoado de palavras, como as vozes femininas na cabeça de Schreber (o louco que Freud amou porque era apenas um texto), também ocuparam minha cabeça. Sinto que te deram a notícia de que alguém foi extraditado e não lhe disseram o nome, mas você sabe que é você. No texto A colônia penal, de Kafka, existe uma máquina de tortura e execução que escreve, nas costas do condenado, a sua acusação, com filetes afiados que cravando mais e mais fundo nas suas costas, termina por matá-lo. Mas ele desconhece o texto da acusação (e ela pode ser, portanto, arbitrária), mas como está inscrita nas costas, lhe é impedido o conhecimento da sua “culpa”. O que fica claro aí é que esse alguém foi dividido de si mesmo, e não vai poder sobreviver a isso. E quem o dividiu foi um aparelho cultural, que o condenou sem que ele soubesse por que (atenção: aos outros leitores deste texto, se me coloco demasiadamente abstrata, perdoem-me, não sei por que,acho que Franco Filho me entenderá). Por falar em Filho indico a você, do mesmo Kafka, a carta ao pai, um libelo, um lamenta, um testemunho de um filho que se vê esmagado por um pai tirânico que não consegue ver na delicadeza do filho, uma força bem maior que a sua. Vocês sabem, Kafka
+
+morreu melancólico, tuberculoso, sem confiar nos seus escritos (pediu par um amigo destruí-los) com vergonha de ser um homem que seu pai desprezava. O seu pai hoje é apenas o “pai de Kafka” com toda a sua brutalidade de comerciante rico. Existe uma outra carta literária, de um noivo que não consegue revelar a enorme vergonha que sente de ter de admitir que é homossexual, para sua querida. Está carta foi escrita por Marguerite Yourcenar, está bela mulher gay, no seu livro Aléxis. Mas hoje os tempos são outros: vi, na MTV, Edson Cordeiro se dizer uma “bicha patriótica”, porque tinha cantado o Hino Nacional na Parada Gay. Um severo senhor sério ao meu lado, riu, com gosto, encantado. Mas se trata mesmo da questão homossexual aqui? Vi pessoas mergulharem no mais profundo desespero e depressão; entre as ondas negras do tédio e da falta de sentido por outros motivos: por não terem superado as marcas das humilhações por nascerem em uma classe social inferior (não necessariamente pobres, humilhação de classe média é pior ainda porque existe sempre o sonho de freqüentar a classe alta); ou por serem negras, ou com um nariz feio, ou porque seus pais... etc. Mas conheci uma mulher que nasceu homem e, portanto na linguagem técnica se chama “transexual”, extremamente humilhada na infância, rejeitada pelos irmãos, ridicularizada pelos amigos, que hoje é uma bem-sucedida modelo na Europa de grifes como Dolce e Gabbana, Amani, Versace etc. Belíssima, tranqüila, pés no chão, não deslumbrada, simples, fala do amor dos homens e das mulheres com uma propriedade, um discernimento, uma suave elegância das mulheres que antes de tudo são nobres, generosas, belas, como Clitemnestra, a esposa de Agamenon, “uma rainha na arte de obedecer”. Mas essa mulher foi muito amada por sua mãe nos tempos sombrios da sua estranheza. A sua mãe não sucumbiu às pressões do ambiente hostil, e adorou aquele jovem, aquela jovem, coma alma que ela trazia: ao contrário do pai de Kafka, ela viu sua grandeza. Vi jovens serem encarcerados em tratamentos psiquiátricos e em eternos tratamentos psicanalíticos, por que simplesmente seu homossexualismo não poderia manchar o belo nome da família, quando a família possuía outros homossexuais enrustidos, casados, esses sim, bem-sucedidos na ocultação da vergonha. Mas você teve a ousadia, caro Filho, de colocar em minhas mãos, como diria Nietzsche, “o novelo do mais profundo dos problemas éticos: como pode perecer o que tem direito de ser?”. E aí, digitando o seu texto, para esse diário popular, lembrou-me de Kosovo, Afeganistão,
+das mulheres de lá, das torres gêmeas; dos braços decepados das crianças de Serra Leoa, pelos brilhantes dos meus anéis. Lembro-me de mim.
+
+Em busca de amor do passado
+
+Leitora questiona lei do karma perguntando se podemos encontrar, em nossas vidas de agora, pessoas significativas de outra vida com quem deveríamos completar uma experiência essencial para o espírito.
+
+Tenho chorado muito. Estou muito triste. Tenho ficado em minha casa sozinha, sem sair com meus amigos. Pedi a mim mesma um tempo aqui em Salvador, dessa festas todas. Não estou deprimida. Próxima semana reunirei meus amigos
+
+aqui em casa, pois não quero entrar nessa barca furada do ressentimento sem fim. Você acredita em karma, senhora psicanalista? Acredita que podemos encontrar em nossas vidas de agora, pessoas significativas de outra vida, com quem deveríamos completar uma experiência essencial, fundamental para o nosso espírito? Para que ele se amplie, para que a gente aprenda mais lições fundamentais? Eu estava com dúvida até que fiz nossa sinastria com um astrólogo, que me deixou muito abalada. A relação, objetivamente, é quase nada, mas dura e retorna desde o ano passado. Desde que o vi, não pude deixar de pensar nele em todos os minutos da minha vida. Mesmo tendo outros amores, e ele também. Tenho por ele um sentimento imenso de responsabilidade, e agora a responsabilidade é pela própria experiência de si, eu não quero abortar. Não por covardia, não por medo, não por economia.
+
+As mulheres não queimam os navios nos portos? Que sejam. Mas tenho medo do medo dele. Do grande “não” que não posso controlar. E que pode selar o meu destino.
+Responda-me já. Meus amigos não entendem isso, não posso falar com nenhum deles.
+Luísa
+
+Cara Luísa:
+
+Acredito em karma como uma noção que nos imputa responsabilidade em nossas escolhas, em nossos pensamentos, em nossas ações. Não como uma imposição férrea do destino diante da qual teremos que ceder. Não gosto da idéia de castigo ao qual temos que nos submeter para nos purificar. Um velho senhor judeu, de quem eu gosto muito e que tem muitas questões espirituais – tem “uma busca” com se diz – certo dia me falou que um amigo não se tratava de uma doença, porque ele a seria karmica e portanto ele teria que levar o sofrimento até o fim! Meu Deus! Com um pensamento desses todos os terapeutas e médicos teriam que ser varridos da face da Terra até o final dos tempos! Gelei com essa idéia (a dele). Pensei na quantidade de pessoas obcecadas e cegas por interpretações como essas que apaziguam o espírito pela
+
+absoluta passividade e derrotismo. E ele era, muitas vezes, um velho critico, um bom homem. E isso me desesperava mais ainda: até ele!!!
+
+Bem, querida, sou uma desconfiada espiritualista, na realidade eu preferia que todos os amores fossem novinhos em folha. Essa idéia de repetir além dos tempos, fora a velha e boa repetição freudiana, dos modelos amorosos parentais, mais determinação astral, é over. Mas como eu tenho escorpião na casa 9, (risos) isto é, na casa astrológica que hospeda as buscas filosóficas, e cientificas, a busca do conhecimento maior, eu termino buscando em todo sistema de crenças e saberes além de Freud, uma resposta ou várias. Tem persistência para suportar as dúvidas e as pesquisas, durante anos. Solitária e prazerosamente. Escorpião é um bichinho que vive em desertos pedregosos e sozinho. Não é uma boa companhia. Fico à guache, bastante esquisita diante dos intelectuais “profundos” que rejeitam esses saberem mais apropriados ao junguianos que eles não querem conhecer. Não sabem o quanto estão perdendo por não ler o genial e erudito Janes Hillman, um junguianos extraordinário. Sou fascinada pelo tema da astrologia e ler o livro sobre Saturno de Liz Greene, é uma experiência, no mínimo instigante.
+
+Mas você está com medo de que eu, com seus amigos, pense que é um devaneio. Estamos tão acostumados aos amores passageiros, recicláveis e substituíveis, que um amor que insiste pode parecer simples desperdício.
+
+E o amor está no limite do desperdício (enquanto pura paixão) e máquina produtiva (enquanto desejo). No primeiro caso podemos nos tornar um cão que persegue o próprio rabo, irritado, descontente, ensandecido. No segundo, ele é uma seta que guia seguramente para um destino maior. Sob sua égide, a história e as artes foram construídas. A teoria freudiana foi toda feita por amor. Freud amou Fliess, Lou - Andréas, Jung etc. E por eles, pelo amor deles construiu esse saber “escorpiônico”, que ele próprio chamou de peste.
+
+Mas como Beckett disse, analisando Proust – aí, o tempo abandona a biblioteca e se deixa tocar enquanto carne. E está carne é tomada, é ferida, é acariciada, goza. Lembra-se daquele bolero lindo de Nana Caymme canta que fala do tempo e do amor? Ali está uma linda representação desse dialogo incansável e terrível como anjo...
+
+A outra questão que lhe da medo, e que lhe entristece, é que você não sabe o que o outro sentirá diante da análises dos astros de vocês dois. Fugirá com diabo da cruz? Achará uma bobagem? Terá medo, por que acreditar? Em suma não respondera à sua intensidade?
+
+Você não poderá fazer o caminho pelos dois. Este é o desespero dos apaixonados. Você irá até um certo ponto, com seu próprio medo, mas de braços abertos, mas poderá ver diante de si,  o amado lhe dando as costas, vagarosamente, e se esvanecendo num caminho sem volta.
+
+Então você olhará os seus navios queimados no porto, e sabe que não poderá voltar, não da mesma forma. Talvez fique muito tempo nesse território, aprenderá seu dialeto, e conversará longamente com outros que também ali ficaram, sem forma de voltar. Talvez tente outro caminho, talvez fique, talvez o encontre em outra estrada, encurralado pela escuridão, talvez brincando, no carnaval.
+
+Haverá um desenvolvimento gradual do caminho ou vocês enfrentarão abismos? Você já leu O amor nos tempos da Cólera, de Gabriel Garcia Márquez? O I-Ching nos adverte que alguns amores nós só podemos entender o sentido deles na quarta parte final de nossas vidas. Que idade você tem?
+
+Mas o amor é um dom. que temos obrigação (sob pena de estagnarmos) de dar, receber e retribuir. E assim a “roda da fortuna” gira, criando destinos, movendo futuros. Impossível, neste momento deixar de caminhar não é Luísa? Espero que eu tenha podido lhe dar a mão para pelo menos lhe acenar, nesta viajem...

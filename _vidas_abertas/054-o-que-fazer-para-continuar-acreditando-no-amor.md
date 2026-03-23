@@ -1,0 +1,52 @@
+---
+title: "O que fazer para continuar acreditando no amor?"
+autor: "Maria Eunice Santos"
+numero: 54
+resumo: "Leitor conta experiência sobre ex-namorada que desprezou e que agora o despreza, não querendo reatar o romance."
+---
+
+Leitor conta experiência sobre ex-namorada que desprezou e que agora o despreza, não querendo reatar o romance.
+Eunice,
+Tive uma namorada da qual enjoei depois de um ano e meio de namoro. Eu era muito novo e já estava quase me tornando noivo da menina. Haviam muitas tentações e resolvi terminar tudo e ficar com muitas outras. A menina sofreu
+
+muito, porque eu fui seu primeiro homem, seus pais nem sabiam, e ela não esperava por isso.
+Agora não estou com ninguém especial. Tentei voltar. mas ela já está com outro e passa por mim muito gata, com todos os meninos dando em cima dela. Confesso que eu fiquei inseguro, porque era uma menina muito bonita e ,hoje, penso que eu queria que ela tivesse pedido para voltar. Isso não aconteceu e agora, literalmente, ela "bota para quebrar".
+Estou achando as meninas muito promíscuas e fico pensando se elas passaram pelo que minha namorada passou. Somos nós homens culpados disso que está acontecendo com as mulheres? Você não acha que algo precisa mudar para a gente continuar acreditando no amor?
+Obrigado
+Marcelo
+
+Caro Marcelo,
+A quebra de uma imagem idealizada faz parte da mítica do amor. Quer dizer, um dia, as expectativas, as fantasias, a imagem que tínhamos do ser que nós amamos implodem e temos que nos deparar com novos dados que figuram agora uma nova "realidade". Coloco está palavra entre parênteses, porque o outro é sim resultado da química que faz conosco e vice-versa. Um mudando, o outro muda. Uma terapia pessoal é sempre uma terapia de casal e de família. Uma mudança substancial numa engrenagem faz ela mudar de funcionamento, deslizar harmoniosamente ou de repente emperrar. Você lamenta um momento original ao qual gostaria de voltar. Mas se conseguisse, este momento não seria mais o mesmo porque você já estaria mudado.
+Hoje, o seu passado e futuro se fundem. E nessa fusão eu vejo seus preconceitos: as meninas são promíscuas, porque são acessíveis a você e a sua ex-namorada tornou-se gata, porque não mais lhe pertence... E assim começa um círculo vicioso de só se amar o que é impossível e desprezar o que está próximo.
+Por outro lado. tenho sido testemunha de confissões de mulheres que teriam a idade de ser sua mãe, provavelmente, que lamentam (às vezes adoecem neuroticamente), porque não conheceram ninguém mais (sexualmente) que seu único marido. Algumas, mesmo tendo maridos criativos e sensuais (acreditem, isso existe!) ficam obcecadas por fantasias que censuraram quando jovem e que trocaram por um casamento sensato e simplesmente amoroso.
+Como me comentou com sua fina ironia meu querido ex-professor Eduardo Saback: "As pessoas complicam demais...Mas, o que fazer? este é o nosso trabalho!" Essas mulheres monogâmicas escaparam da
+
+promiscuidade, mas também não conservaram a inocência, só a repressão.
+Portanto, Marcelo, não se sinta culpado. Isso só lhe faz sonhar com um poder de ter vampirizado à mocinha, e ela então se transformou numa bela vampira que também transforma os homens em seres cruéis. Você poderia tê-la condenado aos sonhos proibidos dos monogâmicos, a vida previsível de um casamento tedioso ou simplesmente prático, ou, pior ainda, à vingança interminável de uma mulher insatisfeita.
+Você agora tem o tempo presente. Já teve uma pequena experiência, que pode trocar com está moça que passou por sua vida, ou com está que está aí do seu lado e que muito provavelmente você insiste em não enxergar.
+O que os nossos anos pós-revolução sexual nos mostram é que nenhuma saída é necessariamente garantia de felicidade. Nem o casamento tradicional, nem o fácil hedonismo vendido às massas.
+Temos apenas novas moedas e novas formas de negociação, cada vez mais sutis. É preciso aprendê-las, ou melhor, descobri-las.
+Mas foram criadas muitas alternativas e isso só, por si só, é muito bom.
+Há mais liberdade para muitos caminhos, mas como sempre é preciso arriscar muito da nossa comunidade, ao desafinar um falso coro de contentes. E o que você está fazendo, menino? Chorando por um leite que você já pressentia o amargor...
+
+Estou ficando velha
+
+Pressionada pela ditadura da beleza jovem, uma leitora de 40 anos lamenta as perdas que advêm com a idade.
+
+Querida Eunice. Ao te escrever está carta procuro uma saída, não, uma porta para entrar na tal da maior idade. Passar dos 40 é entristecer a alma de uma Afrodite, que teima em se mostrar nos gestos, no corpo já com as clássicas caidinhas - bunda mole, peito caído, gordurinhas já aparecendo nas laterais da
+
+cintura... e a constatação que eu já não encanto mais com o frescor da juventude. Sei que outras armas deverão ser acionadas. A bruxa não pode devorar o brilho do olhar e as maçãs mais caídas. Mas, o que fazer neste mundo competitivo onde ser durinha e jovem é sinônimo de estar viva. A alma de menina quer passear e namorar de mãos dadas. Sonhar com um futuro já não mais tão distante, onde a chama de um encontro inexiste porque cede lugar a uma realidade de "coroa".
+É duro perceber-se precisando de óculos para escrever, passar desapercebida pelos homens da mesma idade que poderiam ser parceiros... Roupas que já não ficam bem, posturas que não são recebidas mais. Envelhecer é para mim um número que eu não vejo beleza nem finalidade. Como poder encarar? Afinal não temos saída. É muito duro não fazer plástica, não freqüentar academia, não ter condições de esconder, apesar da denúncia que a voz já carregada evidencia. Onde buscar uma compreensão da velhice? Tenho um rolo com um homem casado, mas isso não quero falar, não importa. Não sei mais o que escrever, comecei a ficar deprimida.
+Odete
+Cara Odete. A consciência da perecibilidade da imagem corporal veio cedo, para você. 40 anos, não?
+Você, por um certo viés, condena os valores "do corpo durinho e jovem" como condição para se ser reconhecido como vivo, mas a sua dor me revela que você está completamente tomada por eles. Você se enxerga com esse olhar social. Enxergando suas faltas com relação a essas prescrições. Mas, no decorrer da carta aparecem outras faltas também: a falta de um namorado, a falta de dinheiro (para fazer plástica, etc.)...
+Você pode estar invertendo as razões da sua dor. A falta de dinheiro e de namorado podem estar fazendo você odiar a sua imagem. A dor que aparece como primaria é simplesmente secundária e substitutiva. Freud nos avisava que nós somos hipócritas especialmente com relação a dois temas: sexo e dinheiro.
+O mesmo velho Freud nos ensina: quando interpretar um sonho você deve estabelecer como causa a segunda parte do sonho porque a causa sempre aparece invertida, e o que aparece esmaecido, deve ser trazido à frente e focalizado, porque nos sonhos os valores aparecem desfocados. Manobras da deformação onírica. O que é mais importante parece menor. Então, trato sua carta como um texto de sonho:
+Sobre aquilo que você não quer falar eu me deteria: como essa relação - "rolo" - está te afetando? Você gostaria "como uma menina" namorar de mãos dadas. Rolo com homem casado, para as românticas, só as deixa de pés e mãos atados...
+
+Talvez você esteja pensando: se eu fosse mais jovem, mais bonita e rica ele me escolheria... Sérgio Frederico um ex-aluno, analista e infelizmente morto - porque era um homem com um senso de humor sarcástico e adorável - dizia: "O investimento amoroso que é rejeitado, retorna como merda". Amores incondicionais existem em epígrafes de Borges. De maneira geral queremos uma protesezinha para o nosso ego ameaçado pela ruína. O ego é a projeção de uma superfície corporal. Está lá no texto O ego e o id, 1924. Mas também o ego é o reservatório de amor. Quanto de amor você precisa? Quanto de amor você precisa para amar cegamente sua superfície corporal?
+O patinho feio também era um patinho mal-amado. Pelo menos era assim que ele se sentia. Talvez por isso ficasse feio. Irremediavelmente.
+Há pouco, em São Paulo, encontrei-me com duas adoráveis professoras da USP, mulheres cultas e entusiasmadas com o seu trabalho, e comentávamos sobre um outro professor, homem erudito e sempre extremamente feliz. Qual o segredo? Uma delas disse - ele fabula a vida, ele torna a vida literatura. A sua tragicidade é bela, e todos os seus interlocutores se tornam seus personagens; ele os constrói como numa peça de teatro e é assim, um autor generoso. Cria auras, estende encantamentos, silencia e se afasta para melhor imaginá-los, para melhor ser imaginado. Às vezes se torna diretor de teatro na sua própria vida, e logo exige bons textos em nossa fala, nós, que nos transformamos em seus protagonistas. Nenhuma mesquinharia, nenhum vampirismo, nenhum excesso de ordem. Está noite improvisamos, mas não esquecemos que isto é um bom teatro. Com ele somos obrigados a ser belos e inteligentes. Ele nos convoca para uma tela de sonhos. A vida imita a arte porque assim é. Contornamos o que é perecível com a verdade poética. Bons fingidores acreditamos piamente na mentira. Como diz Blanchot: “A arte é um ‘‘como se’’”. Tudo se passa como se estivéssemos na presença da verdade, mas essa presença não chega a ser de fato e por isso não nos proíbe avançar. A arte se afirma como conhecimento, quando o conhecimento é degrau levando a vida eterna,. e se afirma como não conhecimento quando o conhecimento é obstáculo erguido diante desta vida. Ela muda de sentido e de sinal. Destrói-se e subsiste. Está é a sua impostura e também sua dignidade maior. Assim, a arte é o lugar da inquietude e da complacência, o lugar da insatisfação e da segurança. “Ela tem um nome - destruição de si mesmo, desagregação infinita e um outro nome: ventura e eternidade”.
+Pois é Odete, desligue a televisão que lhe impõe o bocão da Cicarelli. Ponha agora, sem constrangimento, os seus óculos de leitura. Seus óculos de literatura. Levanta-te e anda.
+Penso nas enormes possibilidades que não frutificaram na sua culpa por não lhe ter dado o nascimento. Por ter hesitado demasiadamente.
+.

@@ -1,0 +1,40 @@
+<header class="cabecalho-site">
+  <div class="container">
+    <a href="{{ '/' | relative_url }}" class="logo-link">
+      <span class="logo-nome">Maria Eunice Santos</span>
+      <span class="logo-titulo">Psicanalista</span>
+    </a>
+
+    <button class="menu-hamburguer" aria-label="Abrir menu" aria-expanded="false">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+
+    <nav class="navegacao-principal" aria-label="Menu principal">
+      <ul>
+        <li><a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="ativo"{% endif %}>Início</a></li>
+        <li><a href="{{ '/sobre/' | relative_url }}" {% if page.url == '/sobre/' %}class="ativo"{% endif %}>Sobre</a></li>
+        <li><a href="{{ '/publicacoes/' | relative_url }}" {% if page.url contains '/publicacoes' %}class="ativo"{% endif %}>Publicações</a></li>
+        <li><a href="{{ '/vidas-abertas/' | relative_url }}" {% if page.url contains '/vidas-abertas' %}class="ativo"{% endif %}>Vidas Abertas</a></li>
+        <li><a href="{{ '/textos-franceses/' | relative_url }}" {% if page.url contains '/textos-franceses' %}class="ativo"{% endif %}>Textos em Francês</a></li>
+        <li><a href="{{ '/contato/' | relative_url }}" class="botao-nav-contato" {% if page.url == '/contato/' %}aria-current="page"{% endif %}>Contato</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<script>
+  // Menu hambúrguer para mobile
+  document.addEventListener('DOMContentLoaded', function() {
+    const botao = document.querySelector('.menu-hamburguer');
+    const nav = document.querySelector('.navegacao-principal');
+
+    botao.addEventListener('click', function() {
+      const expandido = botao.getAttribute('aria-expanded') === 'true';
+      botao.setAttribute('aria-expanded', !expandido);
+      nav.classList.toggle('aberto');
+      botao.classList.toggle('ativo');
+    });
+  });
+</script>

@@ -1,0 +1,50 @@
+---
+layout: base
+title: "Vidas Abertas"
+descricao: "Arquivo completo da coluna Vidas Abertas, publicada por Maria Eunice Santos no Jornal Correio da Bahia. 276 artigos sobre os mais variados temas da vida."
+usar_busca: true
+---
+
+<div class="pagina-larga">
+  <header class="pagina-cabecalho" style="max-width: var(--largura-texto); margin-left: auto; margin-right: auto;">
+    <h1>Vidas Abertas</h1>
+    <p class="pagina-subtitulo">Coluna publicada no Jornal Correio da Bahia</p>
+  </header>
+
+  <div class="vidas-abertas-intro">
+    <p>
+      Durante 6 anos, Maria Eunice Santos escreveu a coluna <em>Vidas Abertas</em> no Jornal Correio da Bahia,
+      respondendo semanalmente a questões dos leitores sobre os mais variados temas da vida — amor, família,
+      sexualidade, luto, separação, trabalho e tantos outros aspectos da condição humana, sempre com o olhar
+      sensível e rigoroso da psicanálise.
+    </p>
+    <p><strong>{{ site.vidas_abertas | size }} artigos publicados</strong></p>
+  </div>
+
+  <!-- Campo de busca -->
+  <div class="busca-container">
+    <svg class="busca-icone" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+    <input
+      type="text"
+      class="busca-campo"
+      id="campoBusca"
+      placeholder="Buscar por título ou tema..."
+      aria-label="Buscar artigos">
+  </div>
+
+  <p class="vidas-abertas-contador" id="contadorResultados"></p>
+
+  <!-- Grade de artigos -->
+  <div class="vidas-abertas-grade" id="gradeArtigos">
+    {% for artigo in site.vidas_abertas %}
+    <div class="vidas-abertas-card" data-titulo="{{ artigo.title | downcase }}">
+      <h3><a href="{{ artigo.url | relative_url }}">{{ artigo.title }}</a></h3>
+      {% if artigo.resumo %}
+      <p>{{ artigo.resumo }}</p>
+      {% else %}
+      <p>{{ artigo.content | strip_html | truncatewords: 25 }}</p>
+      {% endif %}
+    </div>
+    {% endfor %}
+  </div>
+</div>
